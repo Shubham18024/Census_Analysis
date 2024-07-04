@@ -1,0 +1,31 @@
+Data Sources and Preparation for Analysis
+
+Data Files Utilized:
+- 2001 Data:  2001 Data Education^J Population^J Religion^J Workers.csv
+- 2011 Data: 2011 Data Education^J Population^J Religion^J Workers.csv
+- 1991 Data:Census 1991(Base sheet).csv(These sheets have data regarding religion and population) 
+- Growth and Literacy Rates: 2011 Growth Rate and Literacy Rate, 2001 Growth Rate and Literacy Rate, 1991 Growth Rate and Literacy Rate (datasets related to education level, growth rate, and literacy rate)
+ Data Extraction and Filtering Process:
+1. Downloading Data:
+   - We sourced the Excel files from the official census website, specifically downloading files such as 1991 C09T-0100, 1991-B01T0100, and 1991-C02T-0100.
+   
+2. Filtering Data in Excel:
+   - Using Excel's filter rows option, we filtered the data to focus on state-level information, excluding district-level data.
+
+3. Filtering Data in R:
+   - Additional filtering was performed using R to refine the datasets further.
+
+4. Columns of Interest:
+   - We maintained columns for the total population and the literacy rate for individuals aged 7 and above.
+
+5. Calculating Literacy Rate:
+   - The literacy rate was calculated using the formula:(Total Literates/ Population Age 7 and Above)*100
+
+6. Calculating Growth Rate:
+   - The growth rate for 2011 was computed using the formula:((Population of 2011-Population of 2001)/Population of 2001)*100 similar to 1991 and 2001.  A similar method was applied for the years 1991 and 2001.
+
+7. Data Organization:
+   - Separate Excel sheets were prepared for each variable, including education level, workers, and religion, to streamline analysis.
+
+8. Continuous Dataset Updates:
+   - The datasets were updated continuously as needed to ensure the accuracy and relevance of the analysis.
