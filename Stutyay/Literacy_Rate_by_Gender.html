@@ -1,0 +1,439 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Home Page - Select or create a notebook</title>
+    <link id="favicon" rel="shortcut icon" type="image/x-icon" href="/static/base/images/favicon.ico?v=50afa725b5de8b00030139d09b38620224d4e7dba47c07ef0e86d4643f30c9bfe6bb7e1a4a1c561aa32834480909a4b6fe7cd1e17f7159330b6b5914bf45a880">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="/static/components/jquery-ui/dist/themes/smoothness/jquery-ui.min.css?v=aeef962be7038761e5174f91e2da776c640f789e9802621178606b759506b273d9a97f189a9262b19ac5b511f70a662d8c5e2bf2fb258ae11c3c2ee1e07c6abd" type="text/css" />
+    <link rel="stylesheet" href="/static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=5edf53bf6bb9c3b1ddafd8594825a7e2ed621f19423e569c985162742f63911c09eba2c529f8fb47aebf27fafdfe287d563347f58c1126b278189a18871b6a9a" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <link rel="stylesheet" href="/static/style/style.min.css?v=e1ab1c38b672063a6541baf468c83345cd0f509729783ec9b7ccb64073004f5f056110c82c28aefbf3dbf32e0e040f05b8f0420bc411b669ed3d4f07511812ca" type="text/css"/>
+    
+    <link rel="stylesheet" href="/custom/custom.css" type="text/css" />
+    <script src="/static/components/es6-promise/promise.min.js?v=bea335d74136a63ae1b5130f5ac9a50c6256a5f435e6e09fef599491a84d834a8b0f011ca3eaaca3b4ab6a2da2d3e1191567a2f171e60da1d10e5b9d52f84184" type="text/javascript" charset="utf-8"></script>
+    <script src="/static/components/react/react.production.min.js?v=9a0aaf84a316c8bedd6c2ff7d5b5e0a13f8f84ec02442346cba0b842c6c81a6bf6176e64f3675c2ebf357cb5bb048e0b527bd39377c95681d22468da3d5de735" type="text/javascript"></script>
+    <script src="/static/components/react/react-dom.production.min.js?v=6fc58c1c4736868ff84f57bd8b85f2bdb985993a9392718f3b4af4bfa10fb4efba2b4ddd68644bd2a8daf0619a3844944c9c43f8528364a1aa6fc01ec1b8ae84" type="text/javascript"></script>
+    <script src="/static/components/create-react-class/index.js?v=894ad57246e682b4cfbe7cd5e408dcd6b38d06af4de4f3425991e2676fdc2ef1732cbd19903104198878ae77de12a1996de3e7da3a467fb226bdda8f4618faec" type="text/javascript"></script>
+    <script src="/static/components/requirejs/require.js?v=d37b48bb2137faa0ab98157e240c084dd5b1b5e74911723aa1d1f04c928c2a03dedf922d049e4815f7e5a369faa2e6b6a1000aae958b7953b5cc60411154f593" type="text/javascript" charset="utf-8"></script>
+    <script>
+      require.config({
+          
+          urlArgs: "v=20240714182235",
+          
+          baseUrl: '/static/',
+          paths: {
+            'auth/js/main': 'auth/js/main.min',
+            custom : '/custom',
+            nbextensions : '/nbextensions',
+            kernelspecs : '/kernelspecs',
+            underscore : 'components/underscore/underscore-min',
+            backbone : 'components/backbone/backbone-min',
+            jed: 'components/jed/jed',
+            jquery: 'components/jquery/jquery.min',
+            json: 'components/requirejs-plugins/src/json',
+            text: 'components/requirejs-text/text',
+            bootstrap: 'components/bootstrap/dist/js/bootstrap.min',
+            bootstraptour: 'components/bootstrap-tour/build/js/bootstrap-tour.min',
+            'jquery-ui': 'components/jquery-ui/dist/jquery-ui.min',
+            moment: 'components/moment/min/moment-with-locales',
+            codemirror: 'components/codemirror',
+            termjs: 'components/xterm.js/xterm',
+            typeahead: 'components/jquery-typeahead/dist/jquery.typeahead.min',
+          },
+          map: { // for backward compatibility
+              "*": {
+                  "jqueryui": "jquery-ui",
+              }
+          },
+          shim: {
+            typeahead: {
+              deps: ["jquery"],
+              exports: "typeahead"
+            },
+            underscore: {
+              exports: '_'
+            },
+            backbone: {
+              deps: ["underscore", "jquery"],
+              exports: "Backbone"
+            },
+            bootstrap: {
+              deps: ["jquery"],
+              exports: "bootstrap"
+            },
+            bootstraptour: {
+              deps: ["bootstrap"],
+              exports: "Tour"
+            },
+            "jquery-ui": {
+              deps: ["jquery"],
+              exports: "$"
+            }
+          },
+          waitSeconds: 30,
+      });
+
+      require.config({
+          map: {
+              '*':{
+                'contents': 'services/contents',
+              }
+          }
+      });
+
+      // error-catching custom.js shim.
+      define("custom", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom');
+              console.debug('loaded custom.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom.js", e);
+              return {};
+          }
+      })
+
+      // error-catching custom-preload.js shim.
+      define("custom-preload", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom-preload');
+              console.debug('loaded custom-preload.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom-preload.js", e);
+              return {};
+          }
+      })
+
+    document.nbjs_translations = {"domain": "nbjs", "locale_data": {"nbjs": {"": {"domain": "nbjs"}}}};
+    document.documentElement.lang = navigator.language.toLowerCase();
+    </script>
+
+    
+    
+
+</head>
+
+<body class=""
+ 
+
+  
+    data-jupyter-api-token="391872a4409034e6ca7352f6aa632479436fbb3e0090fe67"
+  
+ 
+data-base-url="/"
+data-notebook-path=""
+data-terminals-available="True"
+data-server-root="C:\Users\stuti"
+
+dir="ltr">
+
+<noscript>
+    <div id='noscript'>
+      Jupyter Notebook requires JavaScript.<br>
+      Please enable it to proceed. 
+  </div>
+</noscript>
+
+<div id="header" role="navigation" aria-label="Top Menu">
+  <div  id="newsId" style="display: none">
+    
+    <div class="alert alert-info" role="alert">
+      <div style="display: flex">
+        <div>
+          <span class="label label-warning">UPDATE</span>
+          Read <a href="https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html" style="text-decoration: underline;" target="_blank">the migration plan</a> to Notebook 7 to learn about the new features and the actions to take if you are using extensions
+          -
+          Please note that updating to Notebook 7 might break some of your extensions.
+        </div>
+        <div style="margin-left: auto;">
+          <a href="" onclick="alert('This message will not be shown anymore.'); return false;">
+            <button type="button" class="btn btn-default btn-xs" id="dontShowId">
+              Don't show anymore
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <div id="header-container" class="container">
+  <div id="ipython_notebook" class="nav navbar-brand"><a href="/tree?token=391872a4409034e6ca7352f6aa632479436fbb3e0090fe67" title='dashboard'>
+      <img src='/static/base/images/logo.png?v=a2a176ee3cee251ffddf5fa21fe8e43727a9e5f87a06f9c91ad7b776d9e9d3d5e0159c16cc188a3965e00375fb4bc336c16067c688f5040c0c2d4bfdb852a9e4' alt='Jupyter Notebook'/>
+  </a></div>
+
+  
+  <span class="flex-spacer"></span>
+  
+  
+  
+    <span id="shutdown_widget">
+      <button id="shutdown" class="btn btn-sm navbar-btn"
+              title="Stop the Jupyter server">
+          Quit
+      </button>
+    </span>
+  
+
+  
+  
+  
+  
+
+    <span id="login_widget">
+      
+        <button id="logout" class="btn btn-sm navbar-btn">Logout</button>
+      
+    </span>
+
+  
+
+  
+  
+  </div>
+  <div class="header-bar"></div>
+
+  
+  
+</div>
+
+<div id="site">
+
+
+  <div id="ipython-main-app" class="container">
+    <div id="tab_content" class="tabbable" role="main">
+      <ul id="tabs" class="nav nav-tabs">
+        <li class="active"><a href="#notebooks" data-toggle="tab">Files</a></li>
+        <li><a href="#running" data-toggle="tab">Running</a></li>
+        <li><a href="#clusters" data-toggle="tab" class="clusters_tab_link" >Clusters</a></li>
+      </ul>
+      <div class="tab-content">
+        <div id="notebooks" class="tab-pane active">
+          <div id="notebook_toolbar" class="row">
+            <div class="col-sm-8 no-padding">
+              <div class="dynamic-instructions">
+                Select items to perform actions on them.
+              </div>
+              <div class="dynamic-buttons">
+                  <button  title="Duplicate selected" aria-label="Duplicate selected" class="duplicate-button btn btn-default btn-xs" aria-describedby="tooltip1">Duplicate </button>
+                  <div role="tooltip" id="tooltip1" >Duplicate selected</div>
+                  <button title="Rename selected" aria-label="Rename selected" class="rename-button btn btn-default btn-xs" aria-describedby="tooltip2">Rename</button>
+                  <div role="tooltip" id="tooltip2" >Rename selected</div> 
+                  <button title="Move selected" aria-label="Move selected" class="move-button btn btn-default btn-xs" aria-describedby="tooltip3">Move</button>
+                  <div role="tooltip" id="tooltip3" >Move selected</div> 
+                  <button title="Download selected" aria-label="Download selected" class="download-button btn btn-default btn-xs" aria-describedby="tooltip4">Download</button>
+                  <div role="tooltip" id="tooltip4" >Download selected</div>
+                  <button title="Shutdown selected notebook(s)" aria-label="Shutdown selected notebook(s)" class="shutdown-button btn btn-default btn-xs btn-warning" aria-describedby="tooltip5">Shutdown</button>
+                  <div role="tooltip" id="tooltip5" >Shutdown selected notebook(s)</div>  
+                  <button title="View selected" aria-label="View selected" class="view-button btn btn-default btn-xs" aria-describedby="tooltip6">View</button>
+                  <div role="tooltip" id="tooltip6" >View selected</div> 
+                  <button title="Edit selected" aria-label="Edit selected" class="edit-button btn btn-default btn-xs" aria-describedby="tooltip7">Edit</button>
+                  <div role="tooltip" id="tooltip7" >Edit selected</div>  
+                  <button title="Delete selected" aria-label="Delete selected" class="delete-button btn btn-default btn-xs btn-danger" aria-describedby="tooltip8">
+                    <i class="fa fa-trash"></i>
+                  </button>
+                  <div role="tooltip" id="tooltip8" >Delete selected</div>
+              </div>
+            </div>
+            <div class="col-sm-4 no-padding tree-buttons">
+              <div class="pull-right">
+                <form id='alternate_upload'  class='alternate_upload'>
+                  <span id="notebook_list_info">
+                  <span id="upload_span" class="btn btn-xs btn-default btn-upload" role="button" tabindex="0">
+                    <input id="upload_span_input" title="Click to browse for a file to upload." type="file" name="datafile" class="fileinput" multiple='multiple' tabindex="-1">
+                    Upload
+                  </span>
+                  </span>
+                </form>
+                <div id="new-buttons" class="btn-group">
+                  <button class="dropdown-toggle btn btn-default btn-xs" id="new-dropdown-button" data-toggle="dropdown">
+                  <span>New</span>
+                  <span class="caret"></span>
+                  <span class="sr-only">Toggle Dropdown</span>
+                  </button>
+                  <ul id="new-menu" class="dropdown-menu" role="menu">
+                    <li role="menuitem" class="dropdown-header" id="notebook-kernels">Notebook:</li>
+                    <li role="presentation" class="divider"></li>
+                    <li role="menuitem" class="dropdown-header" >Other:</li>
+                    <li role="none" id="new-file">
+                        <a role="menuitem" tabindex="-1" href="#">Text File</a>
+                    </li>
+                    <li role="none" id="new-folder">
+                        <a role="menuitem" tabindex="-1" href="#">Folder</a>
+                    </li>
+                    
+                    <li role="none" id="new-terminal">
+                        <a role="menuitem" tabindex="-1" href="#">Terminal</a>
+                    </li>
+                    
+                  </ul>
+                </div>
+                <div class="btn-group">
+                    <button id="refresh_notebook_list" title="Refresh notebook list"  aria-label="Refresh notebook list" class="btn btn-default btn-xs"><i class="fa fa-refresh"></i></button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="notebook_list">
+            <div id="notebook_list_header" class="row list_header">
+              <div class="btn-group dropdown" id="tree-selector">
+                <button title="Select All / None" aria-label="Select All / None" type="button" class="btn btn-default btn-xs" id="button-select-all" role="checkbox">
+                  <input type="checkbox" class="pull-left tree-selector" id="select-all" tabindex="-1"><span id="counter-select-all">&nbsp;</span></input>
+                </button>
+                <button title="Select Folders/All Notebooks/Running/Files" class="btn btn-default btn-xs dropdown-toggle" type="button" id="tree-selector-btn" data-toggle="dropdown" aria-expanded="true">
+                  <span class="sr-only">checkbox</span>
+                  <span class="caret"></span>
+                  <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul id='selector-menu' class="dropdown-menu" role="menu" aria-labelledby="tree-selector-btn">
+                  <li role="none"><a id="select-folders" role="menuitem" tabindex="-1" href="#" title="Select All Folders"><i class="menu_icon folder_icon icon-fixed-width"></i>&nbsp;Folders</a></li>
+                  <li role="none"><a id="select-notebooks" role="menuitem" tabindex="-1" href="#" title="Select All Notebooks"><i class="menu_icon notebook_icon icon-fixed-width"></i>&nbsp;All Notebooks</a></li>
+                  <li role="none"><a id="select-running-notebooks" role="menuitem" tabindex="-1" href="#" title="Select Running Notebooks"><i class="menu_icon running_notebook_icon icon-fixed-width"></i>&nbsp;Running</a></li>
+                  <li role="none"><a id="select-files" role="menuitem" tabindex="-1" href="#" title="Select All Files"><i class="menu_icon file_icon icon-fixed-width"></i>&nbsp;Files</a></li>
+                </ul>
+              </div>
+              <div id="project_name">
+                <ul class="breadcrumb">
+                  <li><a href="/tree"><i class="fa fa-folder" alt="folder icon"></i></a></li>
+                
+                </ul>
+              </div>
+              <div id="sort_buttons" class="pull-right">
+                <div id="sort_name" class="sort_button">
+                  <button type="button" class="btn btn-xs btn-default sort-action" id="sort-name" aria-label="Sort by name">
+                        Name
+                        <i class="fa fa-arrow-down"></i>
+                  </button>
+                </div>
+                <div id="last_modified" class="sort_button">
+                    <button type="button" class="btn btn-xs btn-default sort-action" id="last-modified" aria-label="Sort by last modified">
+                        Last Modified
+                        <i class="fa"></i>
+                    </button>
+                </div>
+                <div id="file_size" class="sort_button">
+                    <button type="button" class="btn btn-xs btn-default sort-action" id="file-size" aria-label="Sort by file size">
+                        File size
+                        <i class="fa"></i>
+                    </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="running" class="tab-pane">
+          <div id="running_toolbar" class="row">
+            <div class="col-sm-8 no-padding">
+              <span id="running_list_info">Currently running Jupyter processes</span>
+            </div>
+            <div class="col-sm-4 no-padding tree-buttons">
+              <span id="running_buttons" class="pull-right">
+              <button id="refresh_running_list" title="Refresh running list" aria-label="Refresh running list" class="btn btn-default btn-xs"><i class="fa fa-refresh"></i></button>
+              </span>
+            </div>
+          </div>
+          <div class="panel-group" id="accordion" >
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-target="#collapseOne" href="#">
+                  Terminals
+                </a>
+              </div>
+              <div id="collapseOne" class=" collapse in">
+                <div class="panel-body">
+                  <div id="terminal_list">
+                    <div id="terminal_list_header" class="row list_placeholder">
+                    
+                      <div> There are no terminals running. </div>
+                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-target="#collapseTwo" href="#">
+                  Notebooks
+                </a>
+              </div>
+              <div id="collapseTwo" class=" collapse in">
+                <div class="panel-body">
+                  <div id="running_list">
+                    <div id="running_list_placeholder" class="row list_placeholder">
+                      <div> There are no notebooks running. </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="clusters" class="tab-pane">
+          Clusters tab is now provided by IPython parallel.
+          See '<a href="https://github.com/ipython/ipyparallel">IPython parallel</a>' for installation details.
+        </div>
+      </div><!-- class:tab-content -->
+    </div><!-- id:tab_content -->
+  </div><!-- ipython-main-app  -->
+
+
+</div>
+
+
+
+
+
+    
+
+    <script src="/static/tree/js/main.min.js?v=17b01c53d1f313a1c8db8c3d1ed29350f9b3415f9fdb158eec238d1fb5b0d7e1226de2bbe9754122366365ed03b74889d1a7854b720391b1e25bed20198cf609" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript">
+      $('#element').tooltip('enable')
+    </script>
+
+
+<script type='text/javascript'>
+  function _remove_token_from_url() {
+    if (window.location.search.length <= 1) {
+      return;
+    }
+    var search_parameters = window.location.search.slice(1).split('&');
+    for (var i = 0; i < search_parameters.length; i++) {
+      if (search_parameters[i].split('=')[0] === 'token') {
+        // remote token from search parameters
+        search_parameters.splice(i, 1);
+        var new_search = '';
+        if (search_parameters.length) {
+          new_search = '?' + search_parameters.join('&');
+        }
+        var new_url = window.location.origin + 
+                      window.location.pathname + 
+                      new_search + 
+                      window.location.hash;
+        window.history.replaceState({}, "", new_url);
+        return;
+      }
+    }
+  }
+  _remove_token_from_url();
+  sys_info = {"notebook_version": "6.5.7", "notebook_path": "C:\\Users\\stuti\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\notebook", "commit_source": "", "commit_hash": "", "sys_version": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]", "sys_executable": "C:\\Users\\stuti\\AppData\\Local\\Programs\\Python\\Python310\\python.exe", "sys_platform": "win32", "platform": "Windows-10-10.0.22631-SP0", "os_name": "nt", "default_encoding": "utf-8"};
+  document.addEventListener('DOMContentLoaded', function () {
+    const newsId = document.querySelector('#newsId');
+    const dontShowId = document.querySelector('#dontShowId');
+    const showNotebookNews = localStorage.getItem('showNotebookNews');
+    dontShowId.addEventListener('click', () => {
+      localStorage.setItem('showNotebookNews', false);
+      newsId.style.display = 'none';
+    });
+    if (!showNotebookNews) newsId.style.display = 'inline';
+  });
+</script>
+</body>
+
+</html>
