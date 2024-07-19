@@ -1,0 +1,1331 @@
+State_Code,Rural/Urban,State,Religious_Community,Age,Total_Population,Literate_Population
+24,Rural,GUJARAT,Hindu,7,686132,534002
+24,Rural,GUJARAT,Hindu,8,689131,616413
+24,Rural,GUJARAT,Hindu,9,658292,612230
+24,Rural,GUJARAT,Hindu,10,756737,699605
+24,Rural,GUJARAT,Hindu,11,711254,672208
+24,Rural,GUJARAT,Hindu,12,720364,675374
+24,Rural,GUJARAT,Hindu,13,677337,637129
+24,Rural,GUJARAT,Hindu,14,665562,621580
+24,Rural,GUJARAT,Hindu,15,691452,632855
+24,Rural,GUJARAT,Hindu,16,638713,583516
+24,Rural,GUJARAT,Hindu,17,593568,541595
+24,Rural,GUJARAT,Hindu,18,692984,609408
+24,Rural,GUJARAT,Hindu,19,558773,492633
+24,Rural,GUJARAT,Hindu,20-24,2911574,2417522
+24,Rural,GUJARAT,Hindu,25-29,2578807,1997618
+24,Rural,GUJARAT,Hindu,30-34,2398473,1712387
+24,Rural,GUJARAT,Hindu,35-59,8459814,4793008
+24,Rural,GUJARAT,Hindu,60+,2710849,989955
+24,Rural,GUJARAT,Hindu,Age not stated,106504,70055
+24,Rural,GUJARAT,Muslim,7,46746,36405
+24,Rural,GUJARAT,Muslim,8,45900,40581
+24,Rural,GUJARAT,Muslim,9,43997,40749
+24,Rural,GUJARAT,Muslim,10,50376,46350
+24,Rural,GUJARAT,Muslim,11,46175,43591
+24,Rural,GUJARAT,Muslim,12,47413,44248
+24,Rural,GUJARAT,Muslim,13,44647,42044
+24,Rural,GUJARAT,Muslim,14,43469,40608
+24,Rural,GUJARAT,Muslim,15,44598,40813
+24,Rural,GUJARAT,Muslim,16,41909,38301
+24,Rural,GUJARAT,Muslim,17,39256,35939
+24,Rural,GUJARAT,Muslim,18,45912,40704
+24,Rural,GUJARAT,Muslim,19,37462,33568
+24,Rural,GUJARAT,Muslim,20-24,195226,164983
+24,Rural,GUJARAT,Muslim,25-29,168421,135121
+24,Rural,GUJARAT,Muslim,30-34,150793,115147
+24,Rural,GUJARAT,Muslim,35-59,493940,327789
+24,Rural,GUJARAT,Muslim,60+,147713,68618
+24,Rural,GUJARAT,Muslim,Age not stated,6437,4830
+24,Rural,GUJARAT,Christian,7,3381,2721
+24,Rural,GUJARAT,Christian,8,3440,3136
+24,Rural,GUJARAT,Christian,9,3344,3136
+24,Rural,GUJARAT,Christian,10,3702,3434
+24,Rural,GUJARAT,Christian,11,3536,3371
+24,Rural,GUJARAT,Christian,12,3378,3196
+24,Rural,GUJARAT,Christian,13,3137,2980
+24,Rural,GUJARAT,Christian,14,2953,2770
+24,Rural,GUJARAT,Christian,15,3117,2896
+24,Rural,GUJARAT,Christian,16,2960,2761
+24,Rural,GUJARAT,Christian,17,2668,2453
+24,Rural,GUJARAT,Christian,18,2899,2615
+24,Rural,GUJARAT,Christian,19,2688,2445
+24,Rural,GUJARAT,Christian,20-24,14047,12133
+24,Rural,GUJARAT,Christian,25-29,13179,10713
+24,Rural,GUJARAT,Christian,30-34,12401,9345
+24,Rural,GUJARAT,Christian,35-59,46106,26930
+24,Rural,GUJARAT,Christian,60+,13196,5830
+24,Rural,GUJARAT,Christian,Age not stated,1106,680
+24,Rural,GUJARAT,Sikh,7,183,144
+24,Rural,GUJARAT,Sikh,8,166,136
+24,Rural,GUJARAT,Sikh,9,175,157
+24,Rural,GUJARAT,Sikh,10,216,190
+24,Rural,GUJARAT,Sikh,11,176,165
+24,Rural,GUJARAT,Sikh,12,211,197
+24,Rural,GUJARAT,Sikh,13,163,153
+24,Rural,GUJARAT,Sikh,14,155,141
+24,Rural,GUJARAT,Sikh,15,176,162
+24,Rural,GUJARAT,Sikh,16,154,139
+24,Rural,GUJARAT,Sikh,17,150,141
+24,Rural,GUJARAT,Sikh,18,202,171
+24,Rural,GUJARAT,Sikh,19,207,176
+24,Rural,GUJARAT,Sikh,20-24,1607,1438
+24,Rural,GUJARAT,Sikh,25-29,1301,1140
+24,Rural,GUJARAT,Sikh,30-34,1034,874
+24,Rural,GUJARAT,Sikh,35-59,3001,2247
+24,Rural,GUJARAT,Sikh,60+,682,338
+24,Rural,GUJARAT,Sikh,Age not stated,57,41
+24,Rural,GUJARAT,Buddhist,7,120,96
+24,Rural,GUJARAT,Buddhist,8,124,112
+24,Rural,GUJARAT,Buddhist,9,111,99
+24,Rural,GUJARAT,Buddhist,10,114,109
+24,Rural,GUJARAT,Buddhist,11,153,142
+24,Rural,GUJARAT,Buddhist,12,142,133
+24,Rural,GUJARAT,Buddhist,13,125,115
+24,Rural,GUJARAT,Buddhist,14,116,112
+24,Rural,GUJARAT,Buddhist,15,120,114
+24,Rural,GUJARAT,Buddhist,16,101,98
+24,Rural,GUJARAT,Buddhist,17,128,123
+24,Rural,GUJARAT,Buddhist,18,131,121
+24,Rural,GUJARAT,Buddhist,19,123,114
+24,Rural,GUJARAT,Buddhist,20-24,560,499
+24,Rural,GUJARAT,Buddhist,25-29,492,423
+24,Rural,GUJARAT,Buddhist,30-34,491,390
+24,Rural,GUJARAT,Buddhist,35-59,1622,1062
+24,Rural,GUJARAT,Buddhist,60+,562,218
+24,Rural,GUJARAT,Buddhist,Age not stated,18,11
+24,Rural,GUJARAT,Jain,7,543,446
+24,Rural,GUJARAT,Jain,8,520,495
+24,Rural,GUJARAT,Jain,9,556,541
+24,Rural,GUJARAT,Jain,10,653,635
+24,Rural,GUJARAT,Jain,11,624,615
+24,Rural,GUJARAT,Jain,12,658,649
+24,Rural,GUJARAT,Jain,13,683,666
+24,Rural,GUJARAT,Jain,14,701,699
+24,Rural,GUJARAT,Jain,15,664,649
+24,Rural,GUJARAT,Jain,16,729,716
+24,Rural,GUJARAT,Jain,17,655,644
+24,Rural,GUJARAT,Jain,18,710,699
+24,Rural,GUJARAT,Jain,19,706,692
+24,Rural,GUJARAT,Jain,20-24,3543,3442
+24,Rural,GUJARAT,Jain,25-29,3078,2957
+24,Rural,GUJARAT,Jain,30-34,2761,2607
+24,Rural,GUJARAT,Jain,35-59,14182,12925
+24,Rural,GUJARAT,Jain,60+,8506,6599
+24,Rural,GUJARAT,Jain,Age not stated,135,117
+24,Rural,GUJARAT,Other religions and persuasions,7,95,68
+24,Rural,GUJARAT,Other religions and persuasions,8,115,107
+24,Rural,GUJARAT,Other religions and persuasions,9,117,109
+24,Rural,GUJARAT,Other religions and persuasions,10,125,114
+24,Rural,GUJARAT,Other religions and persuasions,11,93,87
+24,Rural,GUJARAT,Other religions and persuasions,12,99,89
+24,Rural,GUJARAT,Other religions and persuasions,13,92,84
+24,Rural,GUJARAT,Other religions and persuasions,14,87,82
+24,Rural,GUJARAT,Other religions and persuasions,15,93,81
+24,Rural,GUJARAT,Other religions and persuasions,16,93,85
+24,Rural,GUJARAT,Other religions and persuasions,17,83,77
+24,Rural,GUJARAT,Other religions and persuasions,18,99,93
+24,Rural,GUJARAT,Other religions and persuasions,19,88,78
+24,Rural,GUJARAT,Other religions and persuasions,20-24,467,405
+24,Rural,GUJARAT,Other religions and persuasions,25-29,471,386
+24,Rural,GUJARAT,Other religions and persuasions,30-34,375,296
+24,Rural,GUJARAT,Other religions and persuasions,35-59,1527,989
+24,Rural,GUJARAT,Other religions and persuasions,60+,665,431
+24,Rural,GUJARAT,Other religions and persuasions,Age not stated,26,21
+24,Urban,GUJARAT,Hindu,7,374872,307241
+24,Urban,GUJARAT,Hindu,8,350089,319531
+24,Urban,GUJARAT,Hindu,9,342326,320934
+24,Urban,GUJARAT,Hindu,10,401545,374377
+24,Urban,GUJARAT,Hindu,11,382124,364005
+24,Urban,GUJARAT,Hindu,12,379359,360437
+24,Urban,GUJARAT,Hindu,13,365871,349742
+24,Urban,GUJARAT,Hindu,14,374573,357076
+24,Urban,GUJARAT,Hindu,15,390476,366643
+24,Urban,GUJARAT,Hindu,16,375320,354013
+24,Urban,GUJARAT,Hindu,17,377319,355872
+24,Urban,GUJARAT,Hindu,18,450976,417902
+24,Urban,GUJARAT,Hindu,19,407244,379705
+24,Urban,GUJARAT,Hindu,20-24,2188383,2000013
+24,Urban,GUJARAT,Hindu,25-29,2100514,1890323
+24,Urban,GUJARAT,Hindu,30-34,1840653,1617200
+24,Urban,GUJARAT,Hindu,35-59,6040275,4972807
+24,Urban,GUJARAT,Hindu,60+,1547679,1076987
+24,Urban,GUJARAT,Hindu,Age not stated,102303,80792
+24,Urban,GUJARAT,Muslim,7,82749,65715
+24,Urban,GUJARAT,Muslim,8,78180,69927
+24,Urban,GUJARAT,Muslim,9,74330,68862
+24,Urban,GUJARAT,Muslim,10,85501,78931
+24,Urban,GUJARAT,Muslim,11,79713,75114
+24,Urban,GUJARAT,Muslim,12,81407,76488
+24,Urban,GUJARAT,Muslim,13,76316,71990
+24,Urban,GUJARAT,Muslim,14,75265,70695
+24,Urban,GUJARAT,Muslim,15,78311,72353
+24,Urban,GUJARAT,Muslim,16,75664,69990
+24,Urban,GUJARAT,Muslim,17,74710,68944
+24,Urban,GUJARAT,Muslim,18,89581,81142
+24,Urban,GUJARAT,Muslim,19,76496,69654
+24,Urban,GUJARAT,Muslim,20-24,395562,350240
+24,Urban,GUJARAT,Muslim,25-29,342496,295188
+24,Urban,GUJARAT,Muslim,30-34,297107,246954
+24,Urban,GUJARAT,Muslim,35-59,935171,710696
+24,Urban,GUJARAT,Muslim,60+,252196,151570
+24,Urban,GUJARAT,Muslim,Age not stated,15316,11494
+24,Urban,GUJARAT,Christian,7,2114,1821
+24,Urban,GUJARAT,Christian,8,1949,1828
+24,Urban,GUJARAT,Christian,9,2191,2105
+24,Urban,GUJARAT,Christian,10,2390,2292
+24,Urban,GUJARAT,Christian,11,2453,2379
+24,Urban,GUJARAT,Christian,12,2369,2299
+24,Urban,GUJARAT,Christian,13,2389,2336
+24,Urban,GUJARAT,Christian,14,2378,2328
+24,Urban,GUJARAT,Christian,15,2414,2354
+24,Urban,GUJARAT,Christian,16,2327,2261
+24,Urban,GUJARAT,Christian,17,2316,2257
+24,Urban,GUJARAT,Christian,18,2630,2549
+24,Urban,GUJARAT,Christian,19,2506,2430
+24,Urban,GUJARAT,Christian,20-24,13388,12895
+24,Urban,GUJARAT,Christian,25-29,13496,12960
+24,Urban,GUJARAT,Christian,30-34,12672,12136
+24,Urban,GUJARAT,Christian,35-59,53524,50496
+24,Urban,GUJARAT,Christian,60+,16458,14724
+24,Urban,GUJARAT,Christian,Age not stated,801,728
+24,Urban,GUJARAT,Sikh,7,801,663
+24,Urban,GUJARAT,Sikh,8,775,689
+24,Urban,GUJARAT,Sikh,9,791,708
+24,Urban,GUJARAT,Sikh,10,894,812
+24,Urban,GUJARAT,Sikh,11,866,802
+24,Urban,GUJARAT,Sikh,12,887,819
+24,Urban,GUJARAT,Sikh,13,789,725
+24,Urban,GUJARAT,Sikh,14,820,767
+24,Urban,GUJARAT,Sikh,15,872,799
+24,Urban,GUJARAT,Sikh,16,810,748
+24,Urban,GUJARAT,Sikh,17,801,746
+24,Urban,GUJARAT,Sikh,18,902,817
+24,Urban,GUJARAT,Sikh,19,853,777
+24,Urban,GUJARAT,Sikh,20-24,4576,4118
+24,Urban,GUJARAT,Sikh,25-29,4280,3860
+24,Urban,GUJARAT,Sikh,30-34,3910,3533
+24,Urban,GUJARAT,Sikh,35-59,13645,12140
+24,Urban,GUJARAT,Sikh,60+,4211,3338
+24,Urban,GUJARAT,Sikh,Age not stated,300,234
+24,Urban,GUJARAT,Buddhist,7,467,362
+24,Urban,GUJARAT,Buddhist,8,469,414
+24,Urban,GUJARAT,Buddhist,9,411,380
+24,Urban,GUJARAT,Buddhist,10,480,447
+24,Urban,GUJARAT,Buddhist,11,495,475
+24,Urban,GUJARAT,Buddhist,12,460,430
+24,Urban,GUJARAT,Buddhist,13,415,386
+24,Urban,GUJARAT,Buddhist,14,438,392
+24,Urban,GUJARAT,Buddhist,15,432,379
+24,Urban,GUJARAT,Buddhist,16,404,360
+24,Urban,GUJARAT,Buddhist,17,426,390
+24,Urban,GUJARAT,Buddhist,18,551,495
+24,Urban,GUJARAT,Buddhist,19,461,426
+24,Urban,GUJARAT,Buddhist,20-24,2699,2397
+24,Urban,GUJARAT,Buddhist,25-29,2397,2083
+24,Urban,GUJARAT,Buddhist,30-34,2045,1659
+24,Urban,GUJARAT,Buddhist,35-59,6296,4479
+24,Urban,GUJARAT,Buddhist,60+,1482,892
+24,Urban,GUJARAT,Buddhist,Age not stated,209,138
+24,Urban,GUJARAT,Jain,7,6780,6066
+24,Urban,GUJARAT,Jain,8,6271,6086
+24,Urban,GUJARAT,Jain,9,6579,6419
+24,Urban,GUJARAT,Jain,10,7876,7653
+24,Urban,GUJARAT,Jain,11,7688,7559
+24,Urban,GUJARAT,Jain,12,7300,7209
+24,Urban,GUJARAT,Jain,13,7394,7299
+24,Urban,GUJARAT,Jain,14,7520,7439
+24,Urban,GUJARAT,Jain,15,8113,8007
+24,Urban,GUJARAT,Jain,16,7736,7649
+24,Urban,GUJARAT,Jain,17,7823,7756
+24,Urban,GUJARAT,Jain,18,8597,8505
+24,Urban,GUJARAT,Jain,19,8594,8516
+24,Urban,GUJARAT,Jain,20-24,43051,42504
+24,Urban,GUJARAT,Jain,25-29,44455,43859
+24,Urban,GUJARAT,Jain,30-34,43076,42482
+24,Urban,GUJARAT,Jain,35-59,187041,183532
+24,Urban,GUJARAT,Jain,60+,75316,70636
+24,Urban,GUJARAT,Jain,Age not stated,2290,2031
+24,Urban,GUJARAT,Other religions and persuasions,7,128,111
+24,Urban,GUJARAT,Other religions and persuasions,8,101,99
+24,Urban,GUJARAT,Other religions and persuasions,9,106,101
+24,Urban,GUJARAT,Other religions and persuasions,10,122,117
+24,Urban,GUJARAT,Other religions and persuasions,11,136,132
+24,Urban,GUJARAT,Other religions and persuasions,12,115,112
+24,Urban,GUJARAT,Other religions and persuasions,13,133,132
+24,Urban,GUJARAT,Other religions and persuasions,14,125,120
+24,Urban,GUJARAT,Other religions and persuasions,15,126,124
+24,Urban,GUJARAT,Other religions and persuasions,16,127,124
+24,Urban,GUJARAT,Other religions and persuasions,17,133,130
+24,Urban,GUJARAT,Other religions and persuasions,18,145,142
+24,Urban,GUJARAT,Other religions and persuasions,19,149,144
+24,Urban,GUJARAT,Other religions and persuasions,20-24,750,716
+24,Urban,GUJARAT,Other religions and persuasions,25-29,765,737
+24,Urban,GUJARAT,Other religions and persuasions,30-34,773,734
+24,Urban,GUJARAT,Other religions and persuasions,35-59,3547,3399
+24,Urban,GUJARAT,Other religions and persuasions,60+,2699,2580
+24,Urban,GUJARAT,Other religions and persuasions,Age not stated,72,66
+25,Rural,DAMAN & DIU,Hindu,7,1113,915
+25,Rural,DAMAN & DIU,Hindu,8,1152,1103
+25,Rural,DAMAN & DIU,Hindu,9,1082,1058
+25,Rural,DAMAN & DIU,Hindu,10,1268,1237
+25,Rural,DAMAN & DIU,Hindu,11,1274,1258
+25,Rural,DAMAN & DIU,Hindu,12,1222,1203
+25,Rural,DAMAN & DIU,Hindu,13,1187,1174
+25,Rural,DAMAN & DIU,Hindu,14,1149,1134
+25,Rural,DAMAN & DIU,Hindu,15,1182,1164
+25,Rural,DAMAN & DIU,Hindu,16,1167,1154
+25,Rural,DAMAN & DIU,Hindu,17,1247,1212
+25,Rural,DAMAN & DIU,Hindu,18,1411,1357
+25,Rural,DAMAN & DIU,Hindu,19,1374,1317
+25,Rural,DAMAN & DIU,Hindu,20-24,6651,6244
+25,Rural,DAMAN & DIU,Hindu,25-29,5824,5225
+25,Rural,DAMAN & DIU,Hindu,30-34,4821,3999
+25,Rural,DAMAN & DIU,Hindu,35-59,13870,9074
+25,Rural,DAMAN & DIU,Hindu,60+,3408,1073
+25,Rural,DAMAN & DIU,Hindu,Age not stated,77,58
+25,Rural,DAMAN & DIU,Muslim,7,54,43
+25,Rural,DAMAN & DIU,Muslim,8,40,37
+25,Rural,DAMAN & DIU,Muslim,9,48,47
+25,Rural,DAMAN & DIU,Muslim,10,48,44
+25,Rural,DAMAN & DIU,Muslim,11,51,46
+25,Rural,DAMAN & DIU,Muslim,12,40,40
+25,Rural,DAMAN & DIU,Muslim,13,43,40
+25,Rural,DAMAN & DIU,Muslim,14,35,34
+25,Rural,DAMAN & DIU,Muslim,15,37,34
+25,Rural,DAMAN & DIU,Muslim,16,43,41
+25,Rural,DAMAN & DIU,Muslim,17,45,43
+25,Rural,DAMAN & DIU,Muslim,18,69,64
+25,Rural,DAMAN & DIU,Muslim,19,64,60
+25,Rural,DAMAN & DIU,Muslim,20-24,344,313
+25,Rural,DAMAN & DIU,Muslim,25-29,265,234
+25,Rural,DAMAN & DIU,Muslim,30-34,241,207
+25,Rural,DAMAN & DIU,Muslim,35-59,650,539
+25,Rural,DAMAN & DIU,Muslim,60+,158,82
+25,Rural,DAMAN & DIU,Muslim,Age not stated,4,2
+25,Rural,DAMAN & DIU,Christian,7,4,2
+25,Rural,DAMAN & DIU,Christian,8,1,1
+25,Rural,DAMAN & DIU,Christian,9,1,1
+25,Rural,DAMAN & DIU,Christian,10,2,2
+25,Rural,DAMAN & DIU,Christian,11,4,4
+25,Rural,DAMAN & DIU,Christian,12,2,2
+25,Rural,DAMAN & DIU,Christian,13,1,1
+25,Rural,DAMAN & DIU,Christian,14,4,4
+25,Rural,DAMAN & DIU,Christian,15,2,2
+25,Rural,DAMAN & DIU,Christian,16,1,1
+25,Rural,DAMAN & DIU,Christian,17,1,1
+25,Rural,DAMAN & DIU,Christian,18,2,1
+25,Rural,DAMAN & DIU,Christian,19,3,3
+25,Rural,DAMAN & DIU,Christian,20-24,23,19
+25,Rural,DAMAN & DIU,Christian,25-29,28,24
+25,Rural,DAMAN & DIU,Christian,30-34,10,10
+25,Rural,DAMAN & DIU,Christian,35-59,34,31
+25,Rural,DAMAN & DIU,Christian,60+,12,10
+25,Rural,DAMAN & DIU,Christian,Age not stated,0,0
+25,Rural,DAMAN & DIU,Sikh,7,0,0
+25,Rural,DAMAN & DIU,Sikh,8,0,0
+25,Rural,DAMAN & DIU,Sikh,9,0,0
+25,Rural,DAMAN & DIU,Sikh,10,0,0
+25,Rural,DAMAN & DIU,Sikh,11,0,0
+25,Rural,DAMAN & DIU,Sikh,12,0,0
+25,Rural,DAMAN & DIU,Sikh,13,0,0
+25,Rural,DAMAN & DIU,Sikh,14,0,0
+25,Rural,DAMAN & DIU,Sikh,15,0,0
+25,Rural,DAMAN & DIU,Sikh,16,0,0
+25,Rural,DAMAN & DIU,Sikh,17,0,0
+25,Rural,DAMAN & DIU,Sikh,18,0,0
+25,Rural,DAMAN & DIU,Sikh,19,0,0
+25,Rural,DAMAN & DIU,Sikh,20-24,0,0
+25,Rural,DAMAN & DIU,Sikh,25-29,1,1
+25,Rural,DAMAN & DIU,Sikh,30-34,0,0
+25,Rural,DAMAN & DIU,Sikh,35-59,2,2
+25,Rural,DAMAN & DIU,Sikh,60+,0,0
+25,Rural,DAMAN & DIU,Sikh,Age not stated,0,0
+25,Rural,DAMAN & DIU,Buddhist,7,0,0
+25,Rural,DAMAN & DIU,Buddhist,8,0,0
+25,Rural,DAMAN & DIU,Buddhist,9,0,0
+25,Rural,DAMAN & DIU,Buddhist,10,0,0
+25,Rural,DAMAN & DIU,Buddhist,11,0,0
+25,Rural,DAMAN & DIU,Buddhist,12,0,0
+25,Rural,DAMAN & DIU,Buddhist,13,0,0
+25,Rural,DAMAN & DIU,Buddhist,14,0,0
+25,Rural,DAMAN & DIU,Buddhist,15,0,0
+25,Rural,DAMAN & DIU,Buddhist,16,0,0
+25,Rural,DAMAN & DIU,Buddhist,17,0,0
+25,Rural,DAMAN & DIU,Buddhist,18,0,0
+25,Rural,DAMAN & DIU,Buddhist,19,0,0
+25,Rural,DAMAN & DIU,Buddhist,20-24,0,0
+25,Rural,DAMAN & DIU,Buddhist,25-29,2,1
+25,Rural,DAMAN & DIU,Buddhist,30-34,1,1
+25,Rural,DAMAN & DIU,Buddhist,35-59,0,0
+25,Rural,DAMAN & DIU,Buddhist,60+,0,0
+25,Rural,DAMAN & DIU,Buddhist,Age not stated,0,0
+25,Rural,DAMAN & DIU,Jain,7,0,0
+25,Rural,DAMAN & DIU,Jain,8,0,0
+25,Rural,DAMAN & DIU,Jain,9,1,1
+25,Rural,DAMAN & DIU,Jain,10,1,1
+25,Rural,DAMAN & DIU,Jain,11,0,0
+25,Rural,DAMAN & DIU,Jain,12,0,0
+25,Rural,DAMAN & DIU,Jain,13,0,0
+25,Rural,DAMAN & DIU,Jain,14,0,0
+25,Rural,DAMAN & DIU,Jain,15,1,1
+25,Rural,DAMAN & DIU,Jain,16,0,0
+25,Rural,DAMAN & DIU,Jain,17,0,0
+25,Rural,DAMAN & DIU,Jain,18,0,0
+25,Rural,DAMAN & DIU,Jain,19,0,0
+25,Rural,DAMAN & DIU,Jain,20-24,2,2
+25,Rural,DAMAN & DIU,Jain,25-29,1,1
+25,Rural,DAMAN & DIU,Jain,30-34,0,0
+25,Rural,DAMAN & DIU,Jain,35-59,0,0
+25,Rural,DAMAN & DIU,Jain,60+,0,0
+25,Rural,DAMAN & DIU,Jain,Age not stated,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,7,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,8,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,9,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,10,1,1
+25,Rural,DAMAN & DIU,Other religions and persuasions,11,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,12,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,13,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,14,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,15,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,16,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,17,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,18,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,19,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,20-24,0,0
+25,Rural,DAMAN & DIU,Other religions and persuasions,25-29,2,2
+25,Rural,DAMAN & DIU,Other religions and persuasions,30-34,1,1
+25,Rural,DAMAN & DIU,Other religions and persuasions,35-59,2,2
+25,Rural,DAMAN & DIU,Other religions and persuasions,60+,3,3
+25,Rural,DAMAN & DIU,Other religions and persuasions,Age not stated,0,0
+25,Urban,DAMAN & DIU,Hindu,7,2232,1824
+25,Urban,DAMAN & DIU,Hindu,8,2118,1931
+25,Urban,DAMAN & DIU,Hindu,9,1877,1768
+25,Urban,DAMAN & DIU,Hindu,10,2083,1959
+25,Urban,DAMAN & DIU,Hindu,11,1922,1845
+25,Urban,DAMAN & DIU,Hindu,12,1806,1748
+25,Urban,DAMAN & DIU,Hindu,13,1764,1715
+25,Urban,DAMAN & DIU,Hindu,14,1844,1765
+25,Urban,DAMAN & DIU,Hindu,15,2027,1901
+25,Urban,DAMAN & DIU,Hindu,16,2318,2177
+25,Urban,DAMAN & DIU,Hindu,17,2858,2649
+25,Urban,DAMAN & DIU,Hindu,18,5552,5035
+25,Urban,DAMAN & DIU,Hindu,19,4832,4467
+25,Urban,DAMAN & DIU,Hindu,20-24,28844,26417
+25,Urban,DAMAN & DIU,Hindu,25-29,24744,22428
+25,Urban,DAMAN & DIU,Hindu,30-34,17123,15536
+25,Urban,DAMAN & DIU,Hindu,35-59,34970,30407
+25,Urban,DAMAN & DIU,Hindu,60+,6416,3978
+25,Urban,DAMAN & DIU,Hindu,Age not stated,225,196
+25,Urban,DAMAN & DIU,Muslim,7,306,249
+25,Urban,DAMAN & DIU,Muslim,8,287,268
+25,Urban,DAMAN & DIU,Muslim,9,254,241
+25,Urban,DAMAN & DIU,Muslim,10,280,258
+25,Urban,DAMAN & DIU,Muslim,11,285,270
+25,Urban,DAMAN & DIU,Muslim,12,257,245
+25,Urban,DAMAN & DIU,Muslim,13,253,242
+25,Urban,DAMAN & DIU,Muslim,14,253,233
+25,Urban,DAMAN & DIU,Muslim,15,251,231
+25,Urban,DAMAN & DIU,Muslim,16,304,278
+25,Urban,DAMAN & DIU,Muslim,17,312,283
+25,Urban,DAMAN & DIU,Muslim,18,509,449
+25,Urban,DAMAN & DIU,Muslim,19,452,418
+25,Urban,DAMAN & DIU,Muslim,20-24,2399,2143
+25,Urban,DAMAN & DIU,Muslim,25-29,1988,1734
+25,Urban,DAMAN & DIU,Muslim,30-34,1530,1284
+25,Urban,DAMAN & DIU,Muslim,35-59,3678,3032
+25,Urban,DAMAN & DIU,Muslim,60+,918,614
+25,Urban,DAMAN & DIU,Muslim,Age not stated,5,3
+25,Urban,DAMAN & DIU,Christian,7,40,35
+25,Urban,DAMAN & DIU,Christian,8,36,34
+25,Urban,DAMAN & DIU,Christian,9,39,38
+25,Urban,DAMAN & DIU,Christian,10,35,35
+25,Urban,DAMAN & DIU,Christian,11,46,45
+25,Urban,DAMAN & DIU,Christian,12,36,35
+25,Urban,DAMAN & DIU,Christian,13,31,31
+25,Urban,DAMAN & DIU,Christian,14,36,34
+25,Urban,DAMAN & DIU,Christian,15,38,36
+25,Urban,DAMAN & DIU,Christian,16,27,26
+25,Urban,DAMAN & DIU,Christian,17,38,38
+25,Urban,DAMAN & DIU,Christian,18,36,36
+25,Urban,DAMAN & DIU,Christian,19,34,33
+25,Urban,DAMAN & DIU,Christian,20-24,222,215
+25,Urban,DAMAN & DIU,Christian,25-29,227,220
+25,Urban,DAMAN & DIU,Christian,30-34,220,213
+25,Urban,DAMAN & DIU,Christian,35-59,967,927
+25,Urban,DAMAN & DIU,Christian,60+,348,293
+25,Urban,DAMAN & DIU,Christian,Age not stated,2,2
+25,Urban,DAMAN & DIU,Sikh,7,2,1
+25,Urban,DAMAN & DIU,Sikh,8,4,4
+25,Urban,DAMAN & DIU,Sikh,9,0,0
+25,Urban,DAMAN & DIU,Sikh,10,3,3
+25,Urban,DAMAN & DIU,Sikh,11,2,2
+25,Urban,DAMAN & DIU,Sikh,12,5,4
+25,Urban,DAMAN & DIU,Sikh,13,2,2
+25,Urban,DAMAN & DIU,Sikh,14,0,0
+25,Urban,DAMAN & DIU,Sikh,15,2,2
+25,Urban,DAMAN & DIU,Sikh,16,3,3
+25,Urban,DAMAN & DIU,Sikh,17,2,1
+25,Urban,DAMAN & DIU,Sikh,18,3,3
+25,Urban,DAMAN & DIU,Sikh,19,3,3
+25,Urban,DAMAN & DIU,Sikh,20-24,17,17
+25,Urban,DAMAN & DIU,Sikh,25-29,17,17
+25,Urban,DAMAN & DIU,Sikh,30-34,11,11
+25,Urban,DAMAN & DIU,Sikh,35-59,59,58
+25,Urban,DAMAN & DIU,Sikh,60+,16,14
+25,Urban,DAMAN & DIU,Sikh,Age not stated,0,0
+25,Urban,DAMAN & DIU,Buddhist,7,6,5
+25,Urban,DAMAN & DIU,Buddhist,8,4,4
+25,Urban,DAMAN & DIU,Buddhist,9,4,4
+25,Urban,DAMAN & DIU,Buddhist,10,4,4
+25,Urban,DAMAN & DIU,Buddhist,11,4,4
+25,Urban,DAMAN & DIU,Buddhist,12,4,4
+25,Urban,DAMAN & DIU,Buddhist,13,3,3
+25,Urban,DAMAN & DIU,Buddhist,14,1,1
+25,Urban,DAMAN & DIU,Buddhist,15,2,2
+25,Urban,DAMAN & DIU,Buddhist,16,3,3
+25,Urban,DAMAN & DIU,Buddhist,17,3,2
+25,Urban,DAMAN & DIU,Buddhist,18,3,3
+25,Urban,DAMAN & DIU,Buddhist,19,6,6
+25,Urban,DAMAN & DIU,Buddhist,20-24,22,20
+25,Urban,DAMAN & DIU,Buddhist,25-29,37,36
+25,Urban,DAMAN & DIU,Buddhist,30-34,30,30
+25,Urban,DAMAN & DIU,Buddhist,35-59,46,39
+25,Urban,DAMAN & DIU,Buddhist,60+,1,1
+25,Urban,DAMAN & DIU,Buddhist,Age not stated,0,0
+25,Urban,DAMAN & DIU,Jain,7,6,6
+25,Urban,DAMAN & DIU,Jain,8,4,4
+25,Urban,DAMAN & DIU,Jain,9,3,3
+25,Urban,DAMAN & DIU,Jain,10,1,1
+25,Urban,DAMAN & DIU,Jain,11,4,4
+25,Urban,DAMAN & DIU,Jain,12,3,3
+25,Urban,DAMAN & DIU,Jain,13,3,3
+25,Urban,DAMAN & DIU,Jain,14,3,3
+25,Urban,DAMAN & DIU,Jain,15,4,3
+25,Urban,DAMAN & DIU,Jain,16,3,3
+25,Urban,DAMAN & DIU,Jain,17,5,5
+25,Urban,DAMAN & DIU,Jain,18,5,5
+25,Urban,DAMAN & DIU,Jain,19,6,6
+25,Urban,DAMAN & DIU,Jain,20-24,31,29
+25,Urban,DAMAN & DIU,Jain,25-29,26,26
+25,Urban,DAMAN & DIU,Jain,30-34,28,27
+25,Urban,DAMAN & DIU,Jain,35-59,79,79
+25,Urban,DAMAN & DIU,Jain,60+,41,35
+25,Urban,DAMAN & DIU,Jain,Age not stated,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,7,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,8,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,9,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,10,2,2
+25,Urban,DAMAN & DIU,Other religions and persuasions,11,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,12,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,13,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,14,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,15,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,16,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,17,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,18,1,1
+25,Urban,DAMAN & DIU,Other religions and persuasions,19,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,20-24,3,3
+25,Urban,DAMAN & DIU,Other religions and persuasions,25-29,4,3
+25,Urban,DAMAN & DIU,Other religions and persuasions,30-34,0,0
+25,Urban,DAMAN & DIU,Other religions and persuasions,35-59,21,21
+25,Urban,DAMAN & DIU,Other religions and persuasions,60+,31,29
+25,Urban,DAMAN & DIU,Other religions and persuasions,Age not stated,0,0
+26,Rural,DADRA & NAGAR HAVELI,Hindu,7,4143,3489
+26,Rural,DADRA & NAGAR HAVELI,Hindu,8,4439,4157
+26,Rural,DADRA & NAGAR HAVELI,Hindu,9,4104,3892
+26,Rural,DADRA & NAGAR HAVELI,Hindu,10,4785,4494
+26,Rural,DADRA & NAGAR HAVELI,Hindu,11,4596,4411
+26,Rural,DADRA & NAGAR HAVELI,Hindu,12,4202,3962
+26,Rural,DADRA & NAGAR HAVELI,Hindu,13,4209,3976
+26,Rural,DADRA & NAGAR HAVELI,Hindu,14,3705,3446
+26,Rural,DADRA & NAGAR HAVELI,Hindu,15,3630,3243
+26,Rural,DADRA & NAGAR HAVELI,Hindu,16,3364,2872
+26,Rural,DADRA & NAGAR HAVELI,Hindu,17,3138,2664
+26,Rural,DADRA & NAGAR HAVELI,Hindu,18,4223,3416
+26,Rural,DADRA & NAGAR HAVELI,Hindu,19,3825,3189
+26,Rural,DADRA & NAGAR HAVELI,Hindu,20-24,21037,15842
+26,Rural,DADRA & NAGAR HAVELI,Hindu,25-29,17002,11083
+26,Rural,DADRA & NAGAR HAVELI,Hindu,30-34,12626,6981
+26,Rural,DADRA & NAGAR HAVELI,Hindu,35-59,37081,12252
+26,Rural,DADRA & NAGAR HAVELI,Hindu,60+,8377,1034
+26,Rural,DADRA & NAGAR HAVELI,Hindu,Age not stated,204,101
+26,Rural,DADRA & NAGAR HAVELI,Muslim,7,65,54
+26,Rural,DADRA & NAGAR HAVELI,Muslim,8,63,61
+26,Rural,DADRA & NAGAR HAVELI,Muslim,9,57,56
+26,Rural,DADRA & NAGAR HAVELI,Muslim,10,63,61
+26,Rural,DADRA & NAGAR HAVELI,Muslim,11,76,75
+26,Rural,DADRA & NAGAR HAVELI,Muslim,12,79,77
+26,Rural,DADRA & NAGAR HAVELI,Muslim,13,48,47
+26,Rural,DADRA & NAGAR HAVELI,Muslim,14,72,70
+26,Rural,DADRA & NAGAR HAVELI,Muslim,15,68,66
+26,Rural,DADRA & NAGAR HAVELI,Muslim,16,66,66
+26,Rural,DADRA & NAGAR HAVELI,Muslim,17,74,71
+26,Rural,DADRA & NAGAR HAVELI,Muslim,18,97,88
+26,Rural,DADRA & NAGAR HAVELI,Muslim,19,104,96
+26,Rural,DADRA & NAGAR HAVELI,Muslim,20-24,551,499
+26,Rural,DADRA & NAGAR HAVELI,Muslim,25-29,393,348
+26,Rural,DADRA & NAGAR HAVELI,Muslim,30-34,278,235
+26,Rural,DADRA & NAGAR HAVELI,Muslim,35-59,724,532
+26,Rural,DADRA & NAGAR HAVELI,Muslim,60+,125,60
+26,Rural,DADRA & NAGAR HAVELI,Muslim,Age not stated,4,4
+26,Rural,DADRA & NAGAR HAVELI,Christian,7,75,71
+26,Rural,DADRA & NAGAR HAVELI,Christian,8,89,88
+26,Rural,DADRA & NAGAR HAVELI,Christian,9,73,69
+26,Rural,DADRA & NAGAR HAVELI,Christian,10,86,83
+26,Rural,DADRA & NAGAR HAVELI,Christian,11,110,109
+26,Rural,DADRA & NAGAR HAVELI,Christian,12,87,86
+26,Rural,DADRA & NAGAR HAVELI,Christian,13,90,88
+26,Rural,DADRA & NAGAR HAVELI,Christian,14,93,86
+26,Rural,DADRA & NAGAR HAVELI,Christian,15,82,76
+26,Rural,DADRA & NAGAR HAVELI,Christian,16,69,63
+26,Rural,DADRA & NAGAR HAVELI,Christian,17,67,60
+26,Rural,DADRA & NAGAR HAVELI,Christian,18,72,58
+26,Rural,DADRA & NAGAR HAVELI,Christian,19,70,61
+26,Rural,DADRA & NAGAR HAVELI,Christian,20-24,263,193
+26,Rural,DADRA & NAGAR HAVELI,Christian,25-29,205,119
+26,Rural,DADRA & NAGAR HAVELI,Christian,30-34,149,90
+26,Rural,DADRA & NAGAR HAVELI,Christian,35-59,640,275
+26,Rural,DADRA & NAGAR HAVELI,Christian,60+,113,32
+26,Rural,DADRA & NAGAR HAVELI,Christian,Age not stated,5,4
+26,Rural,DADRA & NAGAR HAVELI,Sikh,7,1,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,8,2,2
+26,Rural,DADRA & NAGAR HAVELI,Sikh,9,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,10,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,11,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,12,1,1
+26,Rural,DADRA & NAGAR HAVELI,Sikh,13,2,2
+26,Rural,DADRA & NAGAR HAVELI,Sikh,14,1,1
+26,Rural,DADRA & NAGAR HAVELI,Sikh,15,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,16,1,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,17,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,18,0,0
+26,Rural,DADRA & NAGAR HAVELI,Sikh,19,3,3
+26,Rural,DADRA & NAGAR HAVELI,Sikh,20-24,6,4
+26,Rural,DADRA & NAGAR HAVELI,Sikh,25-29,5,4
+26,Rural,DADRA & NAGAR HAVELI,Sikh,30-34,4,4
+26,Rural,DADRA & NAGAR HAVELI,Sikh,35-59,10,8
+26,Rural,DADRA & NAGAR HAVELI,Sikh,60+,2,2
+26,Rural,DADRA & NAGAR HAVELI,Sikh,Age not stated,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,7,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,8,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,9,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,10,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,11,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,12,1,1
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,13,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,14,1,1
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,15,0,0
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,16,1,1
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,17,2,2
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,18,3,3
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,19,4,4
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,20-24,21,20
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,25-29,15,14
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,30-34,8,7
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,35-59,12,7
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,60+,1,1
+26,Rural,DADRA & NAGAR HAVELI,Buddhist,Age not stated,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,7,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,8,1,1
+26,Rural,DADRA & NAGAR HAVELI,Jain,9,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,10,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,11,1,1
+26,Rural,DADRA & NAGAR HAVELI,Jain,12,1,1
+26,Rural,DADRA & NAGAR HAVELI,Jain,13,3,3
+26,Rural,DADRA & NAGAR HAVELI,Jain,14,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,15,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,16,0,0
+26,Rural,DADRA & NAGAR HAVELI,Jain,17,1,1
+26,Rural,DADRA & NAGAR HAVELI,Jain,18,3,3
+26,Rural,DADRA & NAGAR HAVELI,Jain,19,3,3
+26,Rural,DADRA & NAGAR HAVELI,Jain,20-24,8,8
+26,Rural,DADRA & NAGAR HAVELI,Jain,25-29,6,6
+26,Rural,DADRA & NAGAR HAVELI,Jain,30-34,6,6
+26,Rural,DADRA & NAGAR HAVELI,Jain,35-59,18,18
+26,Rural,DADRA & NAGAR HAVELI,Jain,60+,2,1
+26,Rural,DADRA & NAGAR HAVELI,Jain,Age not stated,0,0
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,7,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,8,2,2
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,9,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,10,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,11,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,12,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,13,1,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,14,0,0
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,15,0,0
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,16,3,3
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,17,0,0
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,18,2,2
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,19,4,4
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,20-24,20,17
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,25-29,9,8
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,30-34,7,6
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,35-59,24,14
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,60+,5,1
+26,Rural,DADRA & NAGAR HAVELI,Other religions and persuasions,Age not stated,0,0
+26,Urban,DADRA & NAGAR HAVELI,Hindu,7,2891,2403
+26,Urban,DADRA & NAGAR HAVELI,Hindu,8,2608,2437
+26,Urban,DADRA & NAGAR HAVELI,Hindu,9,2414,2320
+26,Urban,DADRA & NAGAR HAVELI,Hindu,10,2644,2518
+26,Urban,DADRA & NAGAR HAVELI,Hindu,11,2366,2304
+26,Urban,DADRA & NAGAR HAVELI,Hindu,12,2264,2211
+26,Urban,DADRA & NAGAR HAVELI,Hindu,13,2125,2084
+26,Urban,DADRA & NAGAR HAVELI,Hindu,14,2077,2016
+26,Urban,DADRA & NAGAR HAVELI,Hindu,15,2010,1955
+26,Urban,DADRA & NAGAR HAVELI,Hindu,16,1926,1850
+26,Urban,DADRA & NAGAR HAVELI,Hindu,17,2168,2087
+26,Urban,DADRA & NAGAR HAVELI,Hindu,18,3326,3149
+26,Urban,DADRA & NAGAR HAVELI,Hindu,19,3281,3087
+26,Urban,DADRA & NAGAR HAVELI,Hindu,20-24,20541,19359
+26,Urban,DADRA & NAGAR HAVELI,Hindu,25-29,20597,18999
+26,Urban,DADRA & NAGAR HAVELI,Hindu,30-34,16262,14863
+26,Urban,DADRA & NAGAR HAVELI,Hindu,35-59,31926,26929
+26,Urban,DADRA & NAGAR HAVELI,Hindu,60+,4710,2703
+26,Urban,DADRA & NAGAR HAVELI,Hindu,Age not stated,123,103
+26,Urban,DADRA & NAGAR HAVELI,Muslim,7,202,168
+26,Urban,DADRA & NAGAR HAVELI,Muslim,8,185,170
+26,Urban,DADRA & NAGAR HAVELI,Muslim,9,185,175
+26,Urban,DADRA & NAGAR HAVELI,Muslim,10,185,172
+26,Urban,DADRA & NAGAR HAVELI,Muslim,11,166,156
+26,Urban,DADRA & NAGAR HAVELI,Muslim,12,149,144
+26,Urban,DADRA & NAGAR HAVELI,Muslim,13,175,166
+26,Urban,DADRA & NAGAR HAVELI,Muslim,14,145,138
+26,Urban,DADRA & NAGAR HAVELI,Muslim,15,172,165
+26,Urban,DADRA & NAGAR HAVELI,Muslim,16,165,152
+26,Urban,DADRA & NAGAR HAVELI,Muslim,17,169,162
+26,Urban,DADRA & NAGAR HAVELI,Muslim,18,267,242
+26,Urban,DADRA & NAGAR HAVELI,Muslim,19,256,228
+26,Urban,DADRA & NAGAR HAVELI,Muslim,20-24,1397,1230
+26,Urban,DADRA & NAGAR HAVELI,Muslim,25-29,1151,1008
+26,Urban,DADRA & NAGAR HAVELI,Muslim,30-34,868,757
+26,Urban,DADRA & NAGAR HAVELI,Muslim,35-59,1849,1521
+26,Urban,DADRA & NAGAR HAVELI,Muslim,60+,316,214
+26,Urban,DADRA & NAGAR HAVELI,Muslim,Age not stated,28,21
+26,Urban,DADRA & NAGAR HAVELI,Christian,7,57,50
+26,Urban,DADRA & NAGAR HAVELI,Christian,8,38,37
+26,Urban,DADRA & NAGAR HAVELI,Christian,9,46,44
+26,Urban,DADRA & NAGAR HAVELI,Christian,10,27,26
+26,Urban,DADRA & NAGAR HAVELI,Christian,11,30,29
+26,Urban,DADRA & NAGAR HAVELI,Christian,12,27,27
+26,Urban,DADRA & NAGAR HAVELI,Christian,13,27,27
+26,Urban,DADRA & NAGAR HAVELI,Christian,14,49,48
+26,Urban,DADRA & NAGAR HAVELI,Christian,15,41,40
+26,Urban,DADRA & NAGAR HAVELI,Christian,16,32,32
+26,Urban,DADRA & NAGAR HAVELI,Christian,17,29,29
+26,Urban,DADRA & NAGAR HAVELI,Christian,18,45,43
+26,Urban,DADRA & NAGAR HAVELI,Christian,19,41,40
+26,Urban,DADRA & NAGAR HAVELI,Christian,20-24,210,209
+26,Urban,DADRA & NAGAR HAVELI,Christian,25-29,231,222
+26,Urban,DADRA & NAGAR HAVELI,Christian,30-34,201,195
+26,Urban,DADRA & NAGAR HAVELI,Christian,35-59,749,718
+26,Urban,DADRA & NAGAR HAVELI,Christian,60+,120,105
+26,Urban,DADRA & NAGAR HAVELI,Christian,Age not stated,1,1
+26,Urban,DADRA & NAGAR HAVELI,Sikh,7,2,2
+26,Urban,DADRA & NAGAR HAVELI,Sikh,8,4,4
+26,Urban,DADRA & NAGAR HAVELI,Sikh,9,3,3
+26,Urban,DADRA & NAGAR HAVELI,Sikh,10,4,4
+26,Urban,DADRA & NAGAR HAVELI,Sikh,11,2,1
+26,Urban,DADRA & NAGAR HAVELI,Sikh,12,3,3
+26,Urban,DADRA & NAGAR HAVELI,Sikh,13,2,2
+26,Urban,DADRA & NAGAR HAVELI,Sikh,14,4,4
+26,Urban,DADRA & NAGAR HAVELI,Sikh,15,6,6
+26,Urban,DADRA & NAGAR HAVELI,Sikh,16,1,1
+26,Urban,DADRA & NAGAR HAVELI,Sikh,17,4,4
+26,Urban,DADRA & NAGAR HAVELI,Sikh,18,3,3
+26,Urban,DADRA & NAGAR HAVELI,Sikh,19,3,3
+26,Urban,DADRA & NAGAR HAVELI,Sikh,20-24,19,19
+26,Urban,DADRA & NAGAR HAVELI,Sikh,25-29,18,17
+26,Urban,DADRA & NAGAR HAVELI,Sikh,30-34,14,14
+26,Urban,DADRA & NAGAR HAVELI,Sikh,35-59,52,52
+26,Urban,DADRA & NAGAR HAVELI,Sikh,60+,10,9
+26,Urban,DADRA & NAGAR HAVELI,Sikh,Age not stated,0,0
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,7,14,13
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,8,8,8
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,9,11,11
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,10,7,7
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,11,15,15
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,12,6,6
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,13,6,5
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,14,4,4
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,15,4,4
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,16,3,3
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,17,7,6
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,18,7,5
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,19,8,8
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,20-24,77,65
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,25-29,87,82
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,30-34,62,55
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,35-59,111,89
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,60+,5,3
+26,Urban,DADRA & NAGAR HAVELI,Buddhist,Age not stated,0,0
+26,Urban,DADRA & NAGAR HAVELI,Jain,7,23,19
+26,Urban,DADRA & NAGAR HAVELI,Jain,8,17,17
+26,Urban,DADRA & NAGAR HAVELI,Jain,9,22,21
+26,Urban,DADRA & NAGAR HAVELI,Jain,10,13,13
+26,Urban,DADRA & NAGAR HAVELI,Jain,11,19,19
+26,Urban,DADRA & NAGAR HAVELI,Jain,12,15,15
+26,Urban,DADRA & NAGAR HAVELI,Jain,13,27,25
+26,Urban,DADRA & NAGAR HAVELI,Jain,14,22,20
+26,Urban,DADRA & NAGAR HAVELI,Jain,15,19,18
+26,Urban,DADRA & NAGAR HAVELI,Jain,16,18,18
+26,Urban,DADRA & NAGAR HAVELI,Jain,17,17,17
+26,Urban,DADRA & NAGAR HAVELI,Jain,18,14,14
+26,Urban,DADRA & NAGAR HAVELI,Jain,19,20,18
+26,Urban,DADRA & NAGAR HAVELI,Jain,20-24,87,87
+26,Urban,DADRA & NAGAR HAVELI,Jain,25-29,100,100
+26,Urban,DADRA & NAGAR HAVELI,Jain,30-34,98,97
+26,Urban,DADRA & NAGAR HAVELI,Jain,35-59,395,389
+26,Urban,DADRA & NAGAR HAVELI,Jain,60+,83,77
+26,Urban,DADRA & NAGAR HAVELI,Jain,Age not stated,0,0
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,7,10,5
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,8,8,6
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,9,7,7
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,10,6,5
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,11,4,4
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,12,4,4
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,13,3,3
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,14,6,6
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,15,5,4
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,16,0,0
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,17,0,0
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,18,4,3
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,19,4,3
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,20-24,18,16
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,25-29,23,18
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,30-34,19,17
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,35-59,16,14
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,60+,3,3
+26,Urban,DADRA & NAGAR HAVELI,Other religions and persuasions,Age not stated,0,0
+27,Rural,MAHARASHTRA,Hindu,7,963579,727458
+27,Rural,MAHARASHTRA,Hindu,8,977200,888503
+27,Rural,MAHARASHTRA,Hindu,9,1003123,945408
+27,Rural,MAHARASHTRA,Hindu,10,1173623,1097741
+27,Rural,MAHARASHTRA,Hindu,11,1102265,1054349
+27,Rural,MAHARASHTRA,Hindu,12,1063879,1015122
+27,Rural,MAHARASHTRA,Hindu,13,1054734,1012415
+27,Rural,MAHARASHTRA,Hindu,14,1055400,1008798
+27,Rural,MAHARASHTRA,Hindu,15,1073741,1014916
+27,Rural,MAHARASHTRA,Hindu,16,1057920,1002487
+27,Rural,MAHARASHTRA,Hindu,17,972800,923819
+27,Rural,MAHARASHTRA,Hindu,18,1143436,1066159
+27,Rural,MAHARASHTRA,Hindu,19,956765,895568
+27,Rural,MAHARASHTRA,Hindu,20-24,5034584,4575347
+27,Rural,MAHARASHTRA,Hindu,25-29,4407888,3824443
+27,Rural,MAHARASHTRA,Hindu,30-34,3862253,3137083
+27,Rural,MAHARASHTRA,Hindu,35-59,14049175,9341649
+27,Rural,MAHARASHTRA,Hindu,60+,6159821,2602286
+27,Rural,MAHARASHTRA,Hindu,Age not stated,176832,122705
+27,Rural,MAHARASHTRA,Muslim,7,72766,55295
+27,Rural,MAHARASHTRA,Muslim,8,75730,68879
+27,Rural,MAHARASHTRA,Muslim,9,74847,70584
+27,Rural,MAHARASHTRA,Muslim,10,87644,82309
+27,Rural,MAHARASHTRA,Muslim,11,78100,74701
+27,Rural,MAHARASHTRA,Muslim,12,80400,76850
+27,Rural,MAHARASHTRA,Muslim,13,75214,72270
+27,Rural,MAHARASHTRA,Muslim,14,76610,73137
+27,Rural,MAHARASHTRA,Muslim,15,76984,72617
+27,Rural,MAHARASHTRA,Muslim,16,76990,72815
+27,Rural,MAHARASHTRA,Muslim,17,68757,65045
+27,Rural,MAHARASHTRA,Muslim,18,88147,82142
+27,Rural,MAHARASHTRA,Muslim,19,67423,62940
+27,Rural,MAHARASHTRA,Muslim,20-24,344663,312871
+27,Rural,MAHARASHTRA,Muslim,25-29,281491,241619
+27,Rural,MAHARASHTRA,Muslim,30-34,241822,193991
+27,Rural,MAHARASHTRA,Muslim,35-59,775542,524441
+27,Rural,MAHARASHTRA,Muslim,60+,327797,147875
+27,Rural,MAHARASHTRA,Muslim,Age not stated,11166,7814
+27,Rural,MAHARASHTRA,Christian,7,1791,1394
+27,Rural,MAHARASHTRA,Christian,8,1730,1589
+27,Rural,MAHARASHTRA,Christian,9,1909,1807
+27,Rural,MAHARASHTRA,Christian,10,2156,2015
+27,Rural,MAHARASHTRA,Christian,11,2117,2029
+27,Rural,MAHARASHTRA,Christian,12,1986,1898
+27,Rural,MAHARASHTRA,Christian,13,1996,1924
+27,Rural,MAHARASHTRA,Christian,14,2090,2006
+27,Rural,MAHARASHTRA,Christian,15,2091,1997
+27,Rural,MAHARASHTRA,Christian,16,2110,2012
+27,Rural,MAHARASHTRA,Christian,17,1850,1755
+27,Rural,MAHARASHTRA,Christian,18,2305,2175
+27,Rural,MAHARASHTRA,Christian,19,2063,1952
+27,Rural,MAHARASHTRA,Christian,20-24,10551,9779
+27,Rural,MAHARASHTRA,Christian,25-29,9562,8593
+27,Rural,MAHARASHTRA,Christian,30-34,8840,7650
+27,Rural,MAHARASHTRA,Christian,35-59,34020,26411
+27,Rural,MAHARASHTRA,Christian,60+,13040,7825
+27,Rural,MAHARASHTRA,Christian,Age not stated,520,422
+27,Rural,MAHARASHTRA,Sikh,7,483,367
+27,Rural,MAHARASHTRA,Sikh,8,449,409
+27,Rural,MAHARASHTRA,Sikh,9,458,422
+27,Rural,MAHARASHTRA,Sikh,10,516,482
+27,Rural,MAHARASHTRA,Sikh,11,528,479
+27,Rural,MAHARASHTRA,Sikh,12,541,516
+27,Rural,MAHARASHTRA,Sikh,13,458,432
+27,Rural,MAHARASHTRA,Sikh,14,492,464
+27,Rural,MAHARASHTRA,Sikh,15,445,412
+27,Rural,MAHARASHTRA,Sikh,16,479,441
+27,Rural,MAHARASHTRA,Sikh,17,423,393
+27,Rural,MAHARASHTRA,Sikh,18,568,523
+27,Rural,MAHARASHTRA,Sikh,19,529,492
+27,Rural,MAHARASHTRA,Sikh,20-24,2546,2286
+27,Rural,MAHARASHTRA,Sikh,25-29,2319,1985
+27,Rural,MAHARASHTRA,Sikh,30-34,1992,1646
+27,Rural,MAHARASHTRA,Sikh,35-59,6527,4750
+27,Rural,MAHARASHTRA,Sikh,60+,2494,1261
+27,Rural,MAHARASHTRA,Sikh,Age not stated,464,313
+27,Rural,MAHARASHTRA,Buddhist,7,57759,45611
+27,Rural,MAHARASHTRA,Buddhist,8,59889,56018
+27,Rural,MAHARASHTRA,Buddhist,9,62288,59887
+27,Rural,MAHARASHTRA,Buddhist,10,73824,70595
+27,Rural,MAHARASHTRA,Buddhist,11,70219,68288
+27,Rural,MAHARASHTRA,Buddhist,12,67408,65748
+27,Rural,MAHARASHTRA,Buddhist,13,67616,66015
+27,Rural,MAHARASHTRA,Buddhist,14,67870,66120
+27,Rural,MAHARASHTRA,Buddhist,15,68237,65883
+27,Rural,MAHARASHTRA,Buddhist,16,68498,66384
+27,Rural,MAHARASHTRA,Buddhist,17,62840,60997
+27,Rural,MAHARASHTRA,Buddhist,18,73622,70845
+27,Rural,MAHARASHTRA,Buddhist,19,62452,60107
+27,Rural,MAHARASHTRA,Buddhist,20-24,324969,307568
+27,Rural,MAHARASHTRA,Buddhist,25-29,281695,257967
+27,Rural,MAHARASHTRA,Buddhist,30-34,243560,211693
+27,Rural,MAHARASHTRA,Buddhist,35-59,882519,619398
+27,Rural,MAHARASHTRA,Buddhist,60+,404081,155518
+27,Rural,MAHARASHTRA,Buddhist,Age not stated,9696,6917
+27,Rural,MAHARASHTRA,Jain,7,3530,2875
+27,Rural,MAHARASHTRA,Jain,8,3465,3278
+27,Rural,MAHARASHTRA,Jain,9,3621,3499
+27,Rural,MAHARASHTRA,Jain,10,4343,4166
+27,Rural,MAHARASHTRA,Jain,11,4268,4168
+27,Rural,MAHARASHTRA,Jain,12,3946,3877
+27,Rural,MAHARASHTRA,Jain,13,4032,3935
+27,Rural,MAHARASHTRA,Jain,14,4249,4161
+27,Rural,MAHARASHTRA,Jain,15,4350,4257
+27,Rural,MAHARASHTRA,Jain,16,4226,4143
+27,Rural,MAHARASHTRA,Jain,17,4375,4274
+27,Rural,MAHARASHTRA,Jain,18,4750,4646
+27,Rural,MAHARASHTRA,Jain,19,4610,4500
+27,Rural,MAHARASHTRA,Jain,20-24,24369,23746
+27,Rural,MAHARASHTRA,Jain,25-29,22952,22248
+27,Rural,MAHARASHTRA,Jain,30-34,20238,19493
+27,Rural,MAHARASHTRA,Jain,35-59,84571,77948
+27,Rural,MAHARASHTRA,Jain,60+,39089,28593
+27,Rural,MAHARASHTRA,Jain,Age not stated,1017,846
+27,Rural,MAHARASHTRA,Other religions and persuasions,7,1797,1373
+27,Rural,MAHARASHTRA,Other religions and persuasions,8,1806,1618
+27,Rural,MAHARASHTRA,Other religions and persuasions,9,1878,1741
+27,Rural,MAHARASHTRA,Other religions and persuasions,10,2178,2013
+27,Rural,MAHARASHTRA,Other religions and persuasions,11,2049,1952
+27,Rural,MAHARASHTRA,Other religions and persuasions,12,1932,1835
+27,Rural,MAHARASHTRA,Other religions and persuasions,13,1976,1875
+27,Rural,MAHARASHTRA,Other religions and persuasions,14,1853,1746
+27,Rural,MAHARASHTRA,Other religions and persuasions,15,2061,1903
+27,Rural,MAHARASHTRA,Other religions and persuasions,16,1981,1858
+27,Rural,MAHARASHTRA,Other religions and persuasions,17,1875,1740
+27,Rural,MAHARASHTRA,Other religions and persuasions,18,2240,2015
+27,Rural,MAHARASHTRA,Other religions and persuasions,19,1713,1533
+27,Rural,MAHARASHTRA,Other religions and persuasions,20-24,9102,8059
+27,Rural,MAHARASHTRA,Other religions and persuasions,25-29,7614,6232
+27,Rural,MAHARASHTRA,Other religions and persuasions,30-34,6521,4749
+27,Rural,MAHARASHTRA,Other religions and persuasions,35-59,24959,12997
+27,Rural,MAHARASHTRA,Other religions and persuasions,60+,8303,2846
+27,Rural,MAHARASHTRA,Other religions and persuasions,Age not stated,312,211
+27,Urban,MAHARASHTRA,Hindu,7,573064,463576
+27,Urban,MAHARASHTRA,Hindu,8,539072,498851
+27,Urban,MAHARASHTRA,Hindu,9,540077,511706
+27,Urban,MAHARASHTRA,Hindu,10,649298,611483
+27,Urban,MAHARASHTRA,Hindu,11,608812,586047
+27,Urban,MAHARASHTRA,Hindu,12,584462,564345
+27,Urban,MAHARASHTRA,Hindu,13,583792,566171
+27,Urban,MAHARASHTRA,Hindu,14,587244,568751
+27,Urban,MAHARASHTRA,Hindu,15,599153,576709
+27,Urban,MAHARASHTRA,Hindu,16,586876,565688
+27,Urban,MAHARASHTRA,Hindu,17,591813,570309
+27,Urban,MAHARASHTRA,Hindu,18,709431,676926
+27,Urban,MAHARASHTRA,Hindu,19,658926,630510
+27,Urban,MAHARASHTRA,Hindu,20-24,3710068,3505729
+27,Urban,MAHARASHTRA,Hindu,25-29,3662988,3406608
+27,Urban,MAHARASHTRA,Hindu,30-34,3177547,2899841
+27,Urban,MAHARASHTRA,Hindu,35-59,10478015,9034941
+27,Urban,MAHARASHTRA,Hindu,60+,2990783,2194467
+27,Urban,MAHARASHTRA,Hindu,Age not stated,142459,115807
+27,Urban,MAHARASHTRA,Muslim,7,199333,153940
+27,Urban,MAHARASHTRA,Muslim,8,192965,173333
+27,Urban,MAHARASHTRA,Muslim,9,184991,172210
+27,Urban,MAHARASHTRA,Muslim,10,220978,205142
+27,Urban,MAHARASHTRA,Muslim,11,197759,187691
+27,Urban,MAHARASHTRA,Muslim,12,202923,193531
+27,Urban,MAHARASHTRA,Muslim,13,188258,180197
+27,Urban,MAHARASHTRA,Muslim,14,188916,180296
+27,Urban,MAHARASHTRA,Muslim,15,194644,183977
+27,Urban,MAHARASHTRA,Muslim,16,194071,183562
+27,Urban,MAHARASHTRA,Muslim,17,187416,176890
+27,Urban,MAHARASHTRA,Muslim,18,241282,223897
+27,Urban,MAHARASHTRA,Muslim,19,197874,184227
+27,Urban,MAHARASHTRA,Muslim,20-24,1060844,967789
+27,Urban,MAHARASHTRA,Muslim,25-29,913967,808620
+27,Urban,MAHARASHTRA,Muslim,30-34,745947,638988
+27,Urban,MAHARASHTRA,Muslim,35-59,2186524,1717046
+27,Urban,MAHARASHTRA,Muslim,60+,600836,373326
+27,Urban,MAHARASHTRA,Muslim,Age not stated,30526,22839
+27,Urban,MAHARASHTRA,Christian,7,11982,10169
+27,Urban,MAHARASHTRA,Christian,8,11734,11021
+27,Urban,MAHARASHTRA,Christian,9,12205,11688
+27,Urban,MAHARASHTRA,Christian,10,14414,13678
+27,Urban,MAHARASHTRA,Christian,11,13846,13424
+27,Urban,MAHARASHTRA,Christian,12,13530,13180
+27,Urban,MAHARASHTRA,Christian,13,13534,13214
+27,Urban,MAHARASHTRA,Christian,14,13971,13595
+27,Urban,MAHARASHTRA,Christian,15,14243,13843
+27,Urban,MAHARASHTRA,Christian,16,13782,13370
+27,Urban,MAHARASHTRA,Christian,17,14059,13649
+27,Urban,MAHARASHTRA,Christian,18,16033,15501
+27,Urban,MAHARASHTRA,Christian,19,15903,15413
+27,Urban,MAHARASHTRA,Christian,20-24,85483,82269
+27,Urban,MAHARASHTRA,Christian,25-29,85002,81302
+27,Urban,MAHARASHTRA,Christian,30-34,77533,73659
+27,Urban,MAHARASHTRA,Christian,35-59,337833,313441
+27,Urban,MAHARASHTRA,Christian,60+,118069,102125
+27,Urban,MAHARASHTRA,Christian,Age not stated,4200,3618
+27,Urban,MAHARASHTRA,Sikh,7,2858,2350
+27,Urban,MAHARASHTRA,Sikh,8,2779,2574
+27,Urban,MAHARASHTRA,Sikh,9,2670,2521
+27,Urban,MAHARASHTRA,Sikh,10,3214,3023
+27,Urban,MAHARASHTRA,Sikh,11,3087,2951
+27,Urban,MAHARASHTRA,Sikh,12,3008,2883
+27,Urban,MAHARASHTRA,Sikh,13,3051,2942
+27,Urban,MAHARASHTRA,Sikh,14,3008,2905
+27,Urban,MAHARASHTRA,Sikh,15,3133,3005
+27,Urban,MAHARASHTRA,Sikh,16,3031,2914
+27,Urban,MAHARASHTRA,Sikh,17,3042,2922
+27,Urban,MAHARASHTRA,Sikh,18,3640,3467
+27,Urban,MAHARASHTRA,Sikh,19,3503,3364
+27,Urban,MAHARASHTRA,Sikh,20-24,19696,18791
+27,Urban,MAHARASHTRA,Sikh,25-29,19528,18475
+27,Urban,MAHARASHTRA,Sikh,30-34,17406,16381
+27,Urban,MAHARASHTRA,Sikh,35-59,60520,55765
+27,Urban,MAHARASHTRA,Sikh,60+,20093,16547
+27,Urban,MAHARASHTRA,Sikh,Age not stated,978,824
+27,Urban,MAHARASHTRA,Buddhist,7,51554,41988
+27,Urban,MAHARASHTRA,Buddhist,8,48861,45575
+27,Urban,MAHARASHTRA,Buddhist,9,49905,47667
+27,Urban,MAHARASHTRA,Buddhist,10,60754,57772
+27,Urban,MAHARASHTRA,Buddhist,11,57213,55422
+27,Urban,MAHARASHTRA,Buddhist,12,55332,53793
+27,Urban,MAHARASHTRA,Buddhist,13,55866,54469
+27,Urban,MAHARASHTRA,Buddhist,14,55687,54215
+27,Urban,MAHARASHTRA,Buddhist,15,56519,54631
+27,Urban,MAHARASHTRA,Buddhist,16,55893,54194
+27,Urban,MAHARASHTRA,Buddhist,17,55518,53801
+27,Urban,MAHARASHTRA,Buddhist,18,65810,63430
+27,Urban,MAHARASHTRA,Buddhist,19,59947,57831
+27,Urban,MAHARASHTRA,Buddhist,20-24,337325,322578
+27,Urban,MAHARASHTRA,Buddhist,25-29,320447,302242
+27,Urban,MAHARASHTRA,Buddhist,30-34,269095,247555
+27,Urban,MAHARASHTRA,Buddhist,35-59,883223,728732
+27,Urban,MAHARASHTRA,Buddhist,60+,233263,131236
+27,Urban,MAHARASHTRA,Buddhist,Age not stated,9977,7838
+27,Urban,MAHARASHTRA,Jain,7,14678,12656
+27,Urban,MAHARASHTRA,Jain,8,13756,13137
+27,Urban,MAHARASHTRA,Jain,9,14378,13920
+27,Urban,MAHARASHTRA,Jain,10,16476,15834
+27,Urban,MAHARASHTRA,Jain,11,16369,15966
+27,Urban,MAHARASHTRA,Jain,12,15012,14737
+27,Urban,MAHARASHTRA,Jain,13,15684,15439
+27,Urban,MAHARASHTRA,Jain,14,15632,15371
+27,Urban,MAHARASHTRA,Jain,15,16427,16133
+27,Urban,MAHARASHTRA,Jain,16,15912,15662
+27,Urban,MAHARASHTRA,Jain,17,16014,15742
+27,Urban,MAHARASHTRA,Jain,18,18267,17946
+27,Urban,MAHARASHTRA,Jain,19,17577,17288
+27,Urban,MAHARASHTRA,Jain,20-24,92412,90595
+27,Urban,MAHARASHTRA,Jain,25-29,101309,99239
+27,Urban,MAHARASHTRA,Jain,30-34,97745,95636
+27,Urban,MAHARASHTRA,Jain,35-59,390124,378146
+27,Urban,MAHARASHTRA,Jain,60+,145676,132141
+27,Urban,MAHARASHTRA,Jain,Age not stated,4855,4311
+27,Urban,MAHARASHTRA,Other religions and persuasions,7,916,752
+27,Urban,MAHARASHTRA,Other religions and persuasions,8,928,824
+27,Urban,MAHARASHTRA,Other religions and persuasions,9,895,836
+27,Urban,MAHARASHTRA,Other religions and persuasions,10,1137,1033
+27,Urban,MAHARASHTRA,Other religions and persuasions,11,992,923
+27,Urban,MAHARASHTRA,Other religions and persuasions,12,973,925
+27,Urban,MAHARASHTRA,Other religions and persuasions,13,982,937
+27,Urban,MAHARASHTRA,Other religions and persuasions,14,1012,965
+27,Urban,MAHARASHTRA,Other religions and persuasions,15,1051,1000
+27,Urban,MAHARASHTRA,Other religions and persuasions,16,1031,974
+27,Urban,MAHARASHTRA,Other religions and persuasions,17,1069,1029
+27,Urban,MAHARASHTRA,Other religions and persuasions,18,1239,1138
+27,Urban,MAHARASHTRA,Other religions and persuasions,19,1159,1080
+27,Urban,MAHARASHTRA,Other religions and persuasions,20-24,6451,5934
+27,Urban,MAHARASHTRA,Other religions and persuasions,25-29,6599,6003
+27,Urban,MAHARASHTRA,Other religions and persuasions,30-34,6132,5501
+27,Urban,MAHARASHTRA,Other religions and persuasions,35-59,26422,23868
+27,Urban,MAHARASHTRA,Other religions and persuasions,60+,20081,18520
+27,Urban,MAHARASHTRA,Other religions and persuasions,Age not stated,328,274
+30,Rural,GOA,Hindu,7,5668,4663
+30,Rural,GOA,Hindu,8,5166,4898
+30,Rural,GOA,Hindu,9,5491,5336
+30,Rural,GOA,Hindu,10,6383,6174
+30,Rural,GOA,Hindu,11,6113,5980
+30,Rural,GOA,Hindu,12,5626,5517
+30,Rural,GOA,Hindu,13,5793,5696
+30,Rural,GOA,Hindu,14,5913,5805
+30,Rural,GOA,Hindu,15,5876,5761
+30,Rural,GOA,Hindu,16,5697,5574
+30,Rural,GOA,Hindu,17,5843,5711
+30,Rural,GOA,Hindu,18,6574,6364
+30,Rural,GOA,Hindu,19,6513,6283
+30,Rural,GOA,Hindu,20-24,34773,33333
+30,Rural,GOA,Hindu,25-29,37625,35644
+30,Rural,GOA,Hindu,30-34,36454,34176
+30,Rural,GOA,Hindu,35-59,127706,106538
+30,Rural,GOA,Hindu,60+,41687,22261
+30,Rural,GOA,Hindu,Age not stated,697,552
+30,Rural,GOA,Muslim,7,388,311
+30,Rural,GOA,Muslim,8,392,362
+30,Rural,GOA,Muslim,9,342,322
+30,Rural,GOA,Muslim,10,435,416
+30,Rural,GOA,Muslim,11,389,375
+30,Rural,GOA,Muslim,12,382,372
+30,Rural,GOA,Muslim,13,380,364
+30,Rural,GOA,Muslim,14,364,354
+30,Rural,GOA,Muslim,15,350,341
+30,Rural,GOA,Muslim,16,337,318
+30,Rural,GOA,Muslim,17,360,342
+30,Rural,GOA,Muslim,18,430,398
+30,Rural,GOA,Muslim,19,419,391
+30,Rural,GOA,Muslim,20-24,2496,2264
+30,Rural,GOA,Muslim,25-29,2339,2005
+30,Rural,GOA,Muslim,30-34,1757,1436
+30,Rural,GOA,Muslim,35-59,4821,3493
+30,Rural,GOA,Muslim,60+,1127,659
+30,Rural,GOA,Muslim,Age not stated,18,16
+30,Rural,GOA,Christian,7,1838,1567
+30,Rural,GOA,Christian,8,1862,1781
+30,Rural,GOA,Christian,9,1893,1835
+30,Rural,GOA,Christian,10,2056,2001
+30,Rural,GOA,Christian,11,1957,1918
+30,Rural,GOA,Christian,12,1892,1862
+30,Rural,GOA,Christian,13,1881,1842
+30,Rural,GOA,Christian,14,1893,1860
+30,Rural,GOA,Christian,15,1856,1825
+30,Rural,GOA,Christian,16,1852,1828
+30,Rural,GOA,Christian,17,1830,1806
+30,Rural,GOA,Christian,18,2081,2046
+30,Rural,GOA,Christian,19,2186,2142
+30,Rural,GOA,Christian,20-24,9824,9627
+30,Rural,GOA,Christian,25-29,9753,9493
+30,Rural,GOA,Christian,30-34,9872,9556
+30,Rural,GOA,Christian,35-59,45278,39959
+30,Rural,GOA,Christian,60+,22763,15755
+30,Rural,GOA,Christian,Age not stated,166,147
+30,Rural,GOA,Sikh,7,8,7
+30,Rural,GOA,Sikh,8,4,4
+30,Rural,GOA,Sikh,9,4,4
+30,Rural,GOA,Sikh,10,3,3
+30,Rural,GOA,Sikh,11,2,2
+30,Rural,GOA,Sikh,12,4,3
+30,Rural,GOA,Sikh,13,3,3
+30,Rural,GOA,Sikh,14,5,5
+30,Rural,GOA,Sikh,15,7,7
+30,Rural,GOA,Sikh,16,4,4
+30,Rural,GOA,Sikh,17,5,5
+30,Rural,GOA,Sikh,18,5,4
+30,Rural,GOA,Sikh,19,7,6
+30,Rural,GOA,Sikh,20-24,47,45
+30,Rural,GOA,Sikh,25-29,43,40
+30,Rural,GOA,Sikh,30-34,31,30
+30,Rural,GOA,Sikh,35-59,106,101
+30,Rural,GOA,Sikh,60+,26,19
+30,Rural,GOA,Sikh,Age not stated,0,0
+30,Rural,GOA,Buddhist,7,3,3
+30,Rural,GOA,Buddhist,8,4,4
+30,Rural,GOA,Buddhist,9,3,3
+30,Rural,GOA,Buddhist,10,7,7
+30,Rural,GOA,Buddhist,11,5,4
+30,Rural,GOA,Buddhist,12,5,5
+30,Rural,GOA,Buddhist,13,2,2
+30,Rural,GOA,Buddhist,14,4,4
+30,Rural,GOA,Buddhist,15,5,5
+30,Rural,GOA,Buddhist,16,6,6
+30,Rural,GOA,Buddhist,17,4,4
+30,Rural,GOA,Buddhist,18,5,5
+30,Rural,GOA,Buddhist,19,5,5
+30,Rural,GOA,Buddhist,20-24,31,30
+30,Rural,GOA,Buddhist,25-29,35,34
+30,Rural,GOA,Buddhist,30-34,31,30
+30,Rural,GOA,Buddhist,35-59,97,83
+30,Rural,GOA,Buddhist,60+,47,36
+30,Rural,GOA,Buddhist,Age not stated,2,2
+30,Rural,GOA,Jain,7,1,1
+30,Rural,GOA,Jain,8,4,3
+30,Rural,GOA,Jain,9,0,0
+30,Rural,GOA,Jain,10,3,3
+30,Rural,GOA,Jain,11,4,4
+30,Rural,GOA,Jain,12,1,1
+30,Rural,GOA,Jain,13,1,1
+30,Rural,GOA,Jain,14,2,2
+30,Rural,GOA,Jain,15,1,1
+30,Rural,GOA,Jain,16,0,0
+30,Rural,GOA,Jain,17,2,2
+30,Rural,GOA,Jain,18,3,3
+30,Rural,GOA,Jain,19,1,1
+30,Rural,GOA,Jain,20-24,18,16
+30,Rural,GOA,Jain,25-29,15,15
+30,Rural,GOA,Jain,30-34,9,8
+30,Rural,GOA,Jain,35-59,29,23
+30,Rural,GOA,Jain,60+,6,4
+30,Rural,GOA,Jain,Age not stated,0,0
+30,Rural,GOA,Other religions and persuasions,7,0,0
+30,Rural,GOA,Other religions and persuasions,8,0,0
+30,Rural,GOA,Other religions and persuasions,9,1,1
+30,Rural,GOA,Other religions and persuasions,10,1,1
+30,Rural,GOA,Other religions and persuasions,11,0,0
+30,Rural,GOA,Other religions and persuasions,12,2,2
+30,Rural,GOA,Other religions and persuasions,13,0,0
+30,Rural,GOA,Other religions and persuasions,14,1,1
+30,Rural,GOA,Other religions and persuasions,15,2,2
+30,Rural,GOA,Other religions and persuasions,16,0,0
+30,Rural,GOA,Other religions and persuasions,17,1,1
+30,Rural,GOA,Other religions and persuasions,18,1,1
+30,Rural,GOA,Other religions and persuasions,19,1,1
+30,Rural,GOA,Other religions and persuasions,20-24,4,3
+30,Rural,GOA,Other religions and persuasions,25-29,7,7
+30,Rural,GOA,Other religions and persuasions,30-34,5,5
+30,Rural,GOA,Other religions and persuasions,35-59,18,18
+30,Rural,GOA,Other religions and persuasions,60+,16,13
+30,Rural,GOA,Other religions and persuasions,Age not stated,0,0
+30,Urban,GOA,Hindu,7,8131,6776
+30,Urban,GOA,Hindu,8,7736,7295
+30,Urban,GOA,Hindu,9,7933,7589
+30,Urban,GOA,Hindu,10,9003,8587
+30,Urban,GOA,Hindu,11,8707,8436
+30,Urban,GOA,Hindu,12,8165,7959
+30,Urban,GOA,Hindu,13,8101,7923
+30,Urban,GOA,Hindu,14,8175,7996
+30,Urban,GOA,Hindu,15,8481,8252
+30,Urban,GOA,Hindu,16,8210,8013
+30,Urban,GOA,Hindu,17,7976,7782
+30,Urban,GOA,Hindu,18,9925,9538
+30,Urban,GOA,Hindu,19,10074,9706
+30,Urban,GOA,Hindu,20-24,54693,51811
+30,Urban,GOA,Hindu,25-29,55007,51387
+30,Urban,GOA,Hindu,30-34,51839,48275
+30,Urban,GOA,Hindu,35-59,186566,167143
+30,Urban,GOA,Hindu,60+,54192,39638
+30,Urban,GOA,Hindu,Age not stated,791,642
+30,Urban,GOA,Muslim,7,1981,1555
+30,Urban,GOA,Muslim,8,1800,1646
+30,Urban,GOA,Muslim,9,1883,1772
+30,Urban,GOA,Muslim,10,2120,2012
+30,Urban,GOA,Muslim,11,1970,1904
+30,Urban,GOA,Muslim,12,1954,1884
+30,Urban,GOA,Muslim,13,1856,1792
+30,Urban,GOA,Muslim,14,1817,1744
+30,Urban,GOA,Muslim,15,1806,1731
+30,Urban,GOA,Muslim,16,1811,1734
+30,Urban,GOA,Muslim,17,1796,1692
+30,Urban,GOA,Muslim,18,2307,2157
+30,Urban,GOA,Muslim,19,2045,1932
+30,Urban,GOA,Muslim,20-24,11584,10603
+30,Urban,GOA,Muslim,25-29,10652,9332
+30,Urban,GOA,Muslim,30-34,8585,7293
+30,Urban,GOA,Muslim,35-59,25253,19551
+30,Urban,GOA,Muslim,60+,5851,3763
+30,Urban,GOA,Muslim,Age not stated,94,73
+30,Urban,GOA,Christian,7,3241,2792
+30,Urban,GOA,Christian,8,3177,3028
+30,Urban,GOA,Christian,9,3267,3143
+30,Urban,GOA,Christian,10,3625,3516
+30,Urban,GOA,Christian,11,3579,3489
+30,Urban,GOA,Christian,12,3220,3174
+30,Urban,GOA,Christian,13,3341,3294
+30,Urban,GOA,Christian,14,3354,3305
+30,Urban,GOA,Christian,15,3379,3324
+30,Urban,GOA,Christian,16,3039,2986
+30,Urban,GOA,Christian,17,3143,3088
+30,Urban,GOA,Christian,18,3438,3372
+30,Urban,GOA,Christian,19,3698,3617
+30,Urban,GOA,Christian,20-24,16660,16300
+30,Urban,GOA,Christian,25-29,16575,16118
+30,Urban,GOA,Christian,30-34,16796,16216
+30,Urban,GOA,Christian,35-59,80050,72327
+30,Urban,GOA,Christian,60+,37254,28042
+30,Urban,GOA,Christian,Age not stated,222,168
+30,Urban,GOA,Sikh,7,15,15
+30,Urban,GOA,Sikh,8,14,13
+30,Urban,GOA,Sikh,9,18,18
+30,Urban,GOA,Sikh,10,12,12
+30,Urban,GOA,Sikh,11,11,11
+30,Urban,GOA,Sikh,12,11,11
+30,Urban,GOA,Sikh,13,14,14
+30,Urban,GOA,Sikh,14,13,13
+30,Urban,GOA,Sikh,15,17,16
+30,Urban,GOA,Sikh,16,12,12
+30,Urban,GOA,Sikh,17,19,19
+30,Urban,GOA,Sikh,18,15,14
+30,Urban,GOA,Sikh,19,36,34
+30,Urban,GOA,Sikh,20-24,123,121
+30,Urban,GOA,Sikh,25-29,117,113
+30,Urban,GOA,Sikh,30-34,93,90
+30,Urban,GOA,Sikh,35-59,375,355
+30,Urban,GOA,Sikh,60+,86,78
+30,Urban,GOA,Sikh,Age not stated,5,3
+30,Urban,GOA,Buddhist,7,11,9
+30,Urban,GOA,Buddhist,8,7,7
+30,Urban,GOA,Buddhist,9,16,15
+30,Urban,GOA,Buddhist,10,11,11
+30,Urban,GOA,Buddhist,11,10,10
+30,Urban,GOA,Buddhist,12,8,8
+30,Urban,GOA,Buddhist,13,9,9
+30,Urban,GOA,Buddhist,14,10,10
+30,Urban,GOA,Buddhist,15,6,6
+30,Urban,GOA,Buddhist,16,9,9
+30,Urban,GOA,Buddhist,17,10,9
+30,Urban,GOA,Buddhist,18,14,14
+30,Urban,GOA,Buddhist,19,9,9
+30,Urban,GOA,Buddhist,20-24,85,84
+30,Urban,GOA,Buddhist,25-29,76,74
+30,Urban,GOA,Buddhist,30-34,81,77
+30,Urban,GOA,Buddhist,35-59,259,237
+30,Urban,GOA,Buddhist,60+,61,47
+30,Urban,GOA,Buddhist,Age not stated,1,1
+30,Urban,GOA,Jain,7,15,13
+30,Urban,GOA,Jain,8,17,15
+30,Urban,GOA,Jain,9,12,12
+30,Urban,GOA,Jain,10,15,13
+30,Urban,GOA,Jain,11,12,12
+30,Urban,GOA,Jain,12,12,12
+30,Urban,GOA,Jain,13,20,19
+30,Urban,GOA,Jain,14,14,14
+30,Urban,GOA,Jain,15,13,13
+30,Urban,GOA,Jain,16,19,17
+30,Urban,GOA,Jain,17,10,10
+30,Urban,GOA,Jain,18,23,23
+30,Urban,GOA,Jain,19,13,13
+30,Urban,GOA,Jain,20-24,81,81
+30,Urban,GOA,Jain,25-29,73,71
+30,Urban,GOA,Jain,30-34,74,73
+30,Urban,GOA,Jain,35-59,361,352
+30,Urban,GOA,Jain,60+,111,100
+30,Urban,GOA,Jain,Age not stated,1,1
+30,Urban,GOA,Other religions and persuasions,7,2,1
+30,Urban,GOA,Other religions and persuasions,8,2,1
+30,Urban,GOA,Other religions and persuasions,9,2,2
+30,Urban,GOA,Other religions and persuasions,10,2,2
+30,Urban,GOA,Other religions and persuasions,11,1,1
+30,Urban,GOA,Other religions and persuasions,12,4,3
+30,Urban,GOA,Other religions and persuasions,13,2,2
+30,Urban,GOA,Other religions and persuasions,14,0,0
+30,Urban,GOA,Other religions and persuasions,15,2,2
+30,Urban,GOA,Other religions and persuasions,16,1,1
+30,Urban,GOA,Other religions and persuasions,17,1,1
+30,Urban,GOA,Other religions and persuasions,18,3,3
+30,Urban,GOA,Other religions and persuasions,19,1,1
+30,Urban,GOA,Other religions and persuasions,20-24,21,20
+30,Urban,GOA,Other religions and persuasions,25-29,19,14
+30,Urban,GOA,Other religions and persuasions,30-34,11,10
+30,Urban,GOA,Other religions and persuasions,35-59,72,71
+30,Urban,GOA,Other religions and persuasions,60+,29,25
+30,Urban,GOA,Other religions and persuasions,Age not stated,0,0
