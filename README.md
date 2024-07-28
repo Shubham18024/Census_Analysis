@@ -14,3 +14,35 @@ This repository contains code and resources for a summer research project focuse
 
 - **Reports:** Summaries, findings, and visual representations of the analyzed data.
 
+         .--,_
+        ['    '\.
+         \       `''|
+         |         ,]
+          `._      ].
+            |     \
+          _/       -'\
+         ,'          ,'
+       _/'          \                     ,..-''L_
+  |--''              '-;__        |\     /      .,'
+   \                      `--.__,'_ '----     ,-'
+   `\                             \`-'\__    ,|
+,--;/                             /     .| ,/
+\__                               '|    /  / 
+  ./  _-,                         _|   S@yaN
+  \__/ /                        ,/        "
+       |                      _/
+       |                    ,/
+       \                   /
+        |              /.-'
+         \           _/                   :
+          |         /                      .
+           |        |                     .
+      .    |        |                     '.
+      ;     \       /                     ;\
+      '      |     |                
+             \    _|                      : 
+              \_,/                         "'
+                                          : '
+                                             '
+
+
